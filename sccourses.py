@@ -32,11 +32,10 @@ class Course(
 
   def __eq__(self, other):
     return (self.college == other.college and
-            self.department == other.department and self.code == other.code and
-            self.name == other.name)
+            self.department == other.department and self.code == other.code)
 
   def __hash__(self):
-    return hash((self.college, self.department, self.code, self.name))
+    return hash((self.college, self.department, self.code))
 
 
 def wait_for_load(browser):
@@ -90,17 +89,22 @@ def parse_prerequisites(course_node):
   prerequisites = []
   prev_dept = None
   for i in p.findall(parts[0]):
-    if i[0] in ('a 2', 'with 2', 'of 2'):
+    if (i[0] in ('a 2', 'with 2', 'of 2', 'least 2', 'minimum 2', 'GPA 2') or
+        i[0].startswith('Level ')):
       continue
 
-    if not (i[0].startswith('&') or i[0].startswith('and ') or i[0].isdigit()):
+    if not (i[0].startswith('&') or i[0].startswith('and ') or
+            i[0].startswith('or ') or i[0].startswith('into ') or
+            i[0].isdigit()):
       m = p.match(i[0])
       prev_dept = m.group(2)
       prerequisites.append(i[0].strip().upper())
       continue
 
     prerequisites.append(
-        '%s%s' % (prev_dept, i[0].replace('and ', '').replace('into ', '')))
+        '%s%s' %
+        (prev_dept,
+         i[0].replace('and ', '').replace('into ', '').replace('or ', '')))
 
   return sorted([i.replace(' ', '') for i in prerequisites])
 
