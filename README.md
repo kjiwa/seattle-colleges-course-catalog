@@ -36,8 +36,8 @@ As a table, this data has this appearance:
 | ------- | ---------- | ---- | ---- | ------- | ---- | ------------- |
 | Central | ART | 251 | Art History-Is | 5.0 | eL,VLPA,IS | |
 | Central | ART | 253 | Western Art Survey Iii | 5.0 | VLPA,IS | ENGL&101 |
-| North | ECE 420 | Social and Emotional Foundations Early Learning | 5.0 | N | |
-| North | ECE 430 | Linguistically Diverse Learnings | 5.0 | N | |
+| North | ECE | 420 | Social and Emotional Foundations Early Learning | 5.0 | N | |
+| North | ECE | 430 | Linguistically Diverse Learnings | 5.0 | N | |
 | South | TDR | 121 | Drafting Technology I | 4.0 | | TDR131 |
 | South | TDR | 122 | Drafting Technology Ii | 4.0 | | TDR121 |
 
