@@ -1,8 +1,8 @@
-"""A program that extracts SSC course descriptions and exports them to CSV.
+"""A program that extracts Seattle Colleges courses and exports them to CSV.
 
-The South Seattle College class schedule is a dynamic web application. A web
-browser object is invoked to visit the site and interact with it in order to
-view and extract course offerings.
+The Seattle College class schedule is a dynamic web application. A web browser
+object is invoked to visit the site and interact with it in order to view and
+extract course offerings.
 """
 
 import collections
