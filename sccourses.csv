@@ -1,0 +1,1968 @@
+College,Department,Code,Name,Credits,Tags,Prerequisites
+Central,ABE,020,Abe Level 2,4.0,,
+Central,ABE,021,Abe 2 Math,8.0,,
+Central,ABE,021,Abe 2 Math for Esl,5.0,,
+Central,ABE,022,Abe 2 Comm,10.0,,
+Central,ABE,024,Abe Level 2 - Computers,15.0,,
+Central,ABE,030,Abe Level 3,4.0,,ABE020
+Central,ABE,031,Abe 3 Math,5.0,,ABE021
+Central,ABE,032,Abe 3 Comm,10.0,,ABE031
+Central,ABE,034,Cmptr Assted Abe Lvl 3,2.0,,
+Central,ABE,040,Abe Level 4,0.0,,ABE030
+Central,ABE,041,Abe 4 Math,5.0,,
+Central,ABE,041,Abe 4 Math for Esl,5.0,,
+Central,ABE,042,Abe 4 Comm,10.0,,ABE030
+Central,ABE,044,Cmptr Assted Abe Lvl 4,2.0,,
+Central,ABE,049,Abe Ece Support,2.0,,
+Central,ABE,049,Ece Vesl,3.0,,
+Central,ABE,049,Pa Vabe Cda,3.0,,
+Central,ABE,050,Abe Level 5,4.0,,
+Central,ABE,054,Cmptr Assted Abe Lvl 5,2.0,,
+Central,ABE,059,Vocational Esl,5.0,,
+Central,ABE,060,Abe - Asset/Compass Prep,10.0,,
+Central,ABE,060,Abe Level 6,9.0,,
+Central,ABE,060,Abe-Asset,10.0,,
+Central,ABE,061,Abe - Math Level 6,5.0,LC,
+Central,ABE,061,Abe 6 Math,3.0,LC,
+Central,ABE,061,Ase - Math Level 6,3.0,"HY,LC",
+Central,ABE,062,Abe - Comm Level 6,10.0,,
+Central,ABE,062,Abe 6 Comm,5.0,,
+Central,ABE,062,Abe 6 Compass,10.0,,
+Central,ABE,064,Cmptr Assted Abe Lvl 6,2.0,,
+Central,ABE,070,Ed Orien/Int,1.0,,
+Central,ABE,070,Educational Interviewing,9.0,,
+Central,ABE,070,Orien/Int,1.0,,
+Central,ABS,206,Writing Hum Srvs,3.0,,
+Central,ABS,310,Professionalism-Ethical,5.0,,
+Central,ABS,330,Info Lit Prog Assessment,5.0,,
+Central,ABS,350,Quantitative Principles,5.0,,"MATH098,MINIMUM2,OR088,PSYC&100,PSYC217"
+Central,ABS,360,Public Policy Analysis,5.0,,
+Central,ABS,399,Ind Study and Research,5.0,,
+Central,ABS,410,Relationship Between Ec,5.0,,
+Central,ABS,415,Cross-Cultural Competenc,5.0,,
+Central,ABS,430,Sociology of Families,5.0,,SOC&101
+Central,ABS,495,Senior Capstone Project,5.0,,
+Central,ABS,497,Adv Field Placement I,5.0,,
+Central,ABS,498,Adv Field Placement Ii,5.0,,
+Central,ABS,499,Ind Study and Research,5.0,,
+Central,ACCT,303,Acct for Healthcare Mgmt,5.0,HY,
+Central,ACCT&,201,Prin of Accounting I,5.0,CCN,
+Central,ACCT&,202,Prin of Accounting Ii,5.0,CCN,ACCT&201
+Central,ACCT&,203,Prin of Accounting Iii,5.0,CCN,ACCT&120
+Central,AHE,111,Nursing Assistant,12.0,LC,
+Central,AHE,126,Essential Skills Healthc,2.0,,
+Central,AHE,128,Intro to Healthcare,4.0,,
+Central,AHE,129,Intro Healthcare App Prc,1.0,,
+Central,AHE,140,Central Supply/Instr Tch,10.0,,
+Central,AHE,168,Medical Terminology,5.0,eL,ENGLISH101
+Central,AHE,197,Work Exp: Allied Health,5.0,,
+Central,AHE,202,Rc Orient,1.0,,
+Central,AHE,209,Intro Rc,2.0,eL,
+Central,AHE,213,RESP.CARE Clinical Assmt,2.0,,
+Central,AHE,215,Basic Pharmacology,2.0,,
+Central,AHE,217,Cardio Pulm Anat & Phys,5.0,,
+Central,AHE,218,Basic Therapeutic Aprch,4.0,,
+Central,AHE,219,Btae&t,1.0,,
+Central,AHE,301,Prin of Hc Delivery,5.0,HY,
+Central,AHE,330,Info Lit Health,5.0,HY,"ENGL&102,MATH&146"
+Central,AHE,401,Principles of Research,5.0,HY,
+Central,AHE,426,Leadership and Team,5.0,HY,
+Central,AME,150,America's Ethnic History,5.0,ICS,
+Central,AME,201,Diversity & Social Justi,5.0,ICS,
+Central,ANTH,130,World Cultures,5.0,"HY,ICS,GS",ENGL&101
+Central,ANTH,135,Intro Environmental Anth,5.0,"HY,ICS,GS,IS",
+Central,ANTH,201,Contmp Issues in Anthro,5.0,"HY,ICS,COM",
+Central,ANTH,275,Medical Anthropology,5.0,"HY,ICS,NW,GS,IS",
+Central,ANTH,298,Special Topics - Anth,5.0,,
+Central,ANTH,299,Sp Projects in Anthropol,5.0,,
+Central,ANTH,299,Special Problems - Anth,5.0,,
+Central,ANTH&,100,Survey of Anthropology,5.0,"CCN,ICS,GS,IS",ENGL&101
+Central,ANTH&,204,Archaeology,5.0,"CCN,NW",ENGL&101
+Central,ANTH&,205,Biological Anthropology,5.0,"CCN,NW,IS",
+Central,ANTH&,205,Is-Biological Anthropolo,5.0,"CCN,HY,NW,IS",
+Central,ANTH&,206,Cultural Anthropology,5.0,"CCN,eL,ICS,GS,IS",ENGLISH101
+Central,ANTH&,206,Is-Cultural Anthropology,5.0,"CCN,ICS,GS,IS",ENGLISH101
+Central,APPRL,096,Ad&d Skill Development 1,2.0,,ENGL&101
+Central,APPRL,098,Ad&d Skill Development 2,2.0,,"APPRL096,ENGL&101"
+Central,APPRL,100,Ad&d Skill Developemnt 3,2.0,,"APPRL098,ENGL&101"
+Central,APPRL,100,Ad&d Skill Development 3,2.0,,"APPRL098,ENGL&101"
+Central,APPRL,101,Const 1 Prof Techniques,4.0,LC,APPRL100
+Central,APPRL,103,Const 3 Profsnl Techniqs,4.0,,APPRL102
+Central,APPRL,111,Pattmking 1 Flat Pattern,4.0,,APPRL100
+Central,APPRL,113,Ptrn Mkng 3:flat Pattern,4.0,,APPRL112
+Central,APPRL,114,Ptrn Mkng 4: Alt for Fit,2.0,,"APPRL102,APPRL112"
+Central,APPRL,130,Apparel Manufacturing,2.0,,APPRL100
+Central,APPRL,141,Design 1 Princ of Design,2.0,,APPRL100
+Central,APPRL,143,Dsgn 3 Color & Palettes,2.0,,
+Central,APPRL,151,Cmptr Apps for App Dsign,3.0,,APPRL100
+Central,APPRL,197,Work Exp:apparel Design,5.0,,
+Central,APPRL,201,Ready-To-Wear Construct,4.0,,"APPRL103,APPRL211"
+Central,APPRL,211,Pattern Des Rdy-To-Wear,4.0,LC,
+Central,APPRL,221,Pattern Grading,4.0,,"APPRL103,APPRL113"
+Central,APPRL,230,Portfolio & Resume Dev.,4.0,,
+Central,APPRL,241,Dsn 4 Print & Pattern,4.0,,
+Central,APPRL,260,Fashion History,3.0,,
+Central,APPRL,270,Final Line Design & Dev,8.0,,
+Central,ARAB,101,Arab I,5.0,"eL,VLPA",ENGLISH101
+Central,ARAB,101,Arabic I,5.0,"eL,VLPA",ENGLISH101
+Central,ARAB,102,Arab Ii,5.0,"eL,VLPA",ARAB101
+Central,ART,101,Design,5.0,VLPA Studio,
+Central,ART,102,Design,5.0,VLPA Studio,
+Central,ART,103,Design,5.0,VLPA Studio,
+Central,ART,105,Is-Sur Mdrn Art,5.0,"VLPA,IS",ENGL&101
+Central,ART,111,Drawing,5.0,VLPA Studio,
+Central,ART,112,Drawing,5.0,VLPA Studio,
+Central,ART,113,Drawing,5.0,VLPA Studio,
+Central,ART,114,Intr:digital Photography,5.0,VLPA Studio,
+Central,ART,121,Intro to Printmaking,5.0,VLPA Studio,
+Central,ART,122,Intro to Printmaking,5.0,VLPA Studio,
+Central,ART,122,Printmaking Ii,5.0,VLPA Studio,
+Central,ART,123,Intro to Printmaking,5.0,VLPA Studio,
+Central,ART,123,Printmaking Iii,5.0,VLPA Studio,
+Central,ART,201,Painting,5.0,VLPA Studio,
+Central,ART,202,Painting,5.0,VLPA Studio,
+Central,ART,203,Painting,5.0,VLPA Studio,ART202
+Central,ART,251,Art History-Is,5.0,"eL,VLPA,IS",
+Central,ART,253,Western Art Survey Iii,5.0,"VLPA,IS",ENGL&101
+Central,ART,255,Is-History of Asian Art,5.0,"HY,VLPA,GS,IS",ENGL&101
+Central,ART,255,Is-Non Western Art,5.0,"VLPA,GS,IS",ENGL&101
+Central,ART,256,History of Photograpy,5.0,"eL,VLPA",ENGL101
+Central,ART,299,Special Prob in Art,5.0,,
+Central,ART,299,Special Problems in Art,5.0,,
+Central,ART&,100,Art Appreciation,5.0,"CCN,HY,VLPA",
+Central,ASL,120,Intro to Deaf Studies,5.0,"ICS,US",
+Central,ASL&,121,Asl I,5.0,"CCN,VLPA",ENGL&101
+Central,ASL&,122,Asl Ii,5.0,"CCN,VLPA",ASL&121
+Central,ASL&,123,Asl Iii,5.0,"CCN,VLPA",ASL&122
+Central,ASTR&,100,Survey of Astronomy,5.0,"CCN,NW",
+Central,BAK,101,Intro to Desserts&breads,4.0,,
+Central,BAK,102,Bread &Food Preservation,3.0,,BAK101
+Central,BAK,102,Bread& Food Preservation,3.0,,BAK101
+Central,BAK,103,Advanced Theory,4.0,,
+Central,BAK,105,Restaurant Baking Theory,1.5,,
+Central,BAK,105,Restaurant Baking:theory,1.5,,
+Central,BAK,111,Intro Desserts/Breads Pr,6.0,LC,
+Central,BAK,111,Intro Desserts/Breads:pr,6.0,LC,
+Central,BAK,112,Begin Desserts/Breads:pr,8.0,LC,OF1
+Central,BAK,112,Beginning Desserts&bread,8.0,LC,OF1
+Central,BAK,113,Int Desserts & Breads,8.0,LC,
+Central,BAK,113,Int Desserts & Breads Pr,8.0,LC,
+Central,BAK,115,Restaurant Baking:practi,1.0,,
+Central,BAK,116,Fine Dining Baking: Prac,1.0,,OF3
+Central,BAK,117,Intro to Cheese Making,1.0,,
+Central,BAK,123,Adv Desserts & Breads Th,2.0,,OF3
+Central,BAK,124,Adv Buffet Desserts & We,8.0,LC,OF3
+Central,BAK,125,Adv Desserts & Breads,8.0,LC,BAK113
+Central,BAK,125,Adv Desserts & Breads Pr,8.0,LC,BAK113
+Central,BAK,126,Adv Food Preservation,3.0,,
+Central,BAK,299,Special Projects/Com Bak,5.0,,
+Central,BIOL,103,"Nutrition, Food Service",3.0,,
+Central,BIOL,107,Intro to Animal Behavior,5.0,NWLab,
+Central,BIOL,120,Marine Biology,5.0,NWLab,
+Central,BIOL,128,Sur of Human Anat/Phys,5.0,NWLab,
+Central,BIOL,128,Survey of Human Anat&phy,5.0,NWLab,
+Central,BIOL,128,Survey of Human Anat/Phy,5.0,NWLab,
+Central,BIOL,161,Human Genetics,5.0,NWLab,
+Central,BIOL,299,Independent Study,5.0,,
+Central,BIOL,299,Independent Study: Bio,1.0,,
+Central,BIOL&,100,Survey of Biology,5.0,"CCN,NWLab",
+Central,BIOL&,160,General Biology W/ Lab,5.0,"CCN,NWLab",
+Central,BIOL&,160,General Biology W/Lab,5.0,"CCN,NWLab",
+Central,BIOL&,211,Biology Majors Cellular,5.0,"CCN,NWLab",
+Central,BIOL&,211,College Biology W/ Lab,5.0,"CCN,NWLab",
+Central,BIOL&,212,Majors Animal,5.0,"CCN,NWLab",
+Central,BIOL&,213,Majors Plant,5.0,"CCN,NWLab",
+Central,BIOL&,241,Human a & P 1,5.0,"CCN,NWLab",
+Central,BIOL&,241,Human a & P I,5.0,"CCN,NWLab,LC",
+Central,BIOL&,242,Human a & P 2,5.0,"CCN,NWLab",
+Central,BIOL&,242,Human a & P Ii,5.0,"CCN,NWLab",
+Central,BIOL&,260,Microbiology,5.0,"CCN,NWLab",
+Central,BOT,112,The Plant Kingdom,5.0,NWLab,
+Central,BTM,098,Computing Essentials,3.0,HY,"ENGL092,ESL093"
+Central,BTM,100,Edu Career Exploration,2.0,,
+Central,BTM,102,Ms Excel,2.0,,BTM111
+Central,BTM,104,Ms Photoshop,2.0,,BTM111
+Central,BTM,104,Photoshop,2.0,,BTM111
+Central,BTM,106,Keyboarding,3.0,eL,
+Central,BTM,107,Speedbuilding,3.0,eL,
+Central,BTM,108,Applied Business Math I,3.0,,MATH081
+Central,BTM,109,Business Communication I,5.0,HY,ENGL097
+Central,BTM,111,Business Applications I,5.0,,
+Central,BTM,112,Business Applications Ii,5.0,HY,BTM111
+Central,BTM,113,Business Applications 3,5.0,HY,"BTM111,BTM112"
+Central,BTM,113,Business Applicationsiii,5.0,,"BTM111,BTM112"
+Central,BTM,120,Cstmr Relations & Ethics,5.0,,ENGL097
+Central,BTM,120,Cstmr Relations Manageme,5.0,,ENGL097
+Central,BTM,120,Customer Relations Mgmt,5.0,,ENGL097
+Central,BTM,122,Prof Devlmp & Leadership,5.0,,
+Central,BTM,122,Professional Development,5.0,,
+Central,BTM,217,Web Design & Development,5.0,eL,
+Central,BTM,217,Web Development,5.0,eL,
+Central,BTM,218,Web Design W Dreamweaver,4.0,eL,BTM111
+Central,BTM,218,Web Design W/Dreamweaver,4.0,eL,BTM111
+Central,BTM,225,Marketing Fundamentals,5.0,,
+Central,BTM,227,Entrepreneurship Toolkit,3.0,,
+Central,BTM,228,Small Bus Management,5.0,HY,
+Central,BTM,228,Small Business Managemnt,5.0,eL,
+Central,BTM,236,Leadership & Supervision,5.0,,
+Central,BTM,236,Supervision & Leadership,5.0,,
+Central,BTM,240,Applied Database Design,5.0,,BTM111
+Central,BTM,250,Rim Management,5.0,,
+Central,BTM,260,Project Management,5.0,HY,
+Central,BTM,299,Independent Study,5.0,,
+Central,BTM,299,Special Topics/Business,5.0,,
+Central,BUS,210,Bus & Econ Statistics,5.0,,
+Central,BUS,210,Bus & Economic Statistic,5.0,,
+Central,BUS,210,Q-Bus Econ & Statistics,5.0,,
+Central,BUS,240,Internet Law,5.0,eL,
+Central,BUS&,101,Intro to Business,5.0,CCN,
+Central,BUS&,201,Business Law,5.0,CCN,
+Central,CDS,197,Field Placement:chem Dep,3.0,,
+Central,CDS,197,Fld Placement: Chem Dep,3.0,,
+Central,CDS,198,Field Pl/Chem Dependency,3.0,,
+Central,CDS,198,Field Placement:chem Dep,3.0,,
+Central,CDS,198,Fld Placement: Chem Dep,3.0,,
+Central,CDS,199,Field Pl/Chem Dependency,4.0,,
+Central,CDS,199,Field Placement:chem Dep,4.0,,
+Central,CDS,199,Fld Placement: Chem Dep,4.0,,
+Central,CFS,215,Math/Sci W Young Childrn,3.0,,"ENGL&101,MATH084,OR087,OR091"
+Central,CHED,301,Principles Comm Health,5.0,HY,
+Central,CHED,304,Princ Higher Ed in Ah,5.0,HY,
+Central,CHED,311,Social Dtrmnts of Diseas,5.0,HY,
+Central,CHED,312,Health Behav Ctf,5.0,HY,
+Central,CHED,341,Cmty Hlth Needs Assmt,5.0,HY,
+Central,CHED,479,Ched Capstone,5.0,HY,
+Central,CHEM,298,Spec Top/Chem Research,3.0,,
+Central,CHEM,298,Special Topics,1.0,,
+Central,CHEM,299,Special Problems,5.0,,
+Central,CHEM&,110,Chemical Concepts,5.0,"CCN,NWLab,IS",
+Central,CHEM&,121,Intro to Chemistry,5.0,"CCN,NWLab",
+Central,CHEM&,122,Intro to Organic Chem,5.0,"CCN,NWLab",
+Central,CHEM&,139,General Chemistry Prep,5.0,"CCN,NW",
+Central,CHEM&,139,Q-General Chemistry Prep,5.0,"CCN,NW",
+Central,CHEM&,161,General Chem W/ Lab I,6.0,"CCN,NWLab",
+Central,CHEM&,161,Q-General Chem W/Lab 1,6.0,"CCN,NWLab",
+Central,CHEM&,161,Q-General Chem W/Lab I,6.0,"CCN,NWLab",
+Central,CHEM&,162,General Chem W/ Lab Ii,6.0,"CCN,NWLab",
+Central,CHEM&,162,General Chem W/Lab Ii,6.0,"CCN,NWLab",
+Central,CHEM&,163,General Chem W/Lab Iii,6.0,"CCN,NWLab",
+Central,CHEM&,163,Q-General Chem W/Lab 111,6.0,"CCN,NWLab",
+Central,CHEM&,241,Organic Chemistry I,4.0,"CCN,NW",
+Central,CHEM&,243,Organic Chemistry Iii,4.0,"CCN,NW","CHE235,CHEM&242"
+Central,CHEM&,252,Organic Chemistry Lab Ii,4.0,"CCN,NWLab","CHE235,CHE238,CHEM&242,CHEM&251"
+Central,CHIN&,121,Chinese I,5.0,"CCN,VLPA",
+Central,CHIN&,123,Chinese Iii,5.0,"CCN,VLPA","CHI102,CHIN&122"
+Central,CIE,019,Adv College Bridge,4.0,LC,"CB5,CIE016"
+Central,CIE,031,Adv Academic Writing,4.0,LC,
+Central,CIS,299,Ind Stdy/Cmptr Info Sys,5.0,,
+Central,CMST,295,Studies and Works in Com,5.0,"VLPA,COM",ENGL&101
+Central,CMST,299,Studies/Works Communicat,5.0,,
+Central,CMST&,101,Intro to Communication,5.0,"CCN,VLPA,COM",ENGL&101
+Central,CMST&,101,Intro to Communications,5.0,"CCN,VLPA,COM",ENGL&101
+Central,CMST&,101,Introduction to Comm,5.0,"CCN,VLPA,COM",ENGL&101
+Central,CMST&,102,Intro to Mass Media,5.0,"CCN,eL,VLPA",
+Central,CMST&,210,Interpersonal Communicat,5.0,"CCN,HY,VLPA,COM",ENGL&101
+Central,CMST&,210,Interpersonal Communictn,5.0,"CCN,eL,VLPA,COM",ENGL&101
+Central,CMST&,220,Public Speaking,5.0,"CCN,VLPA,COM",
+Central,CPP,101,Intro to Cmty Policing,5.0,,
+Central,CSC,102,Computers in Math,1.0,,
+Central,CSC,102,Computers in Mathematics,2.0,"eL,LC",
+Central,CSC,110,Intro to Cmptr Progming,5.0,NW,
+Central,CSC,110,Intro to Computer Progr,5.0,NW,
+Central,CSC,110,Intro to Computer Progrm,5.0,NW,
+Central,CSC,142,Computer Prog/Egr and Sc,5.0,NW,
+Central,CSC,142,Computer Progr/Engin/Sci,5.0,NW,
+Central,CSC,143,Comp Progr Ii/Engin/Sci,5.0,NW,
+Central,CSC,299,Independent Study,5.0,,
+Central,CSP,175,Csp: Math in Motion,11.0,,
+Central,CSP,250,Csp:holocost:memory Mean,10.0,,
+Central,CUL,101,Food Theory I,6.0,,
+Central,CUL,102,Food Theory Ii,5.0,,OF1
+Central,CUL,103,Food Theory Iii,4.0,LC,
+Central,CUL,104,Food Theory Iv,6.0,LC,OF3
+Central,CUL,106,Intro to Cul Arts:theory,1.5,,
+Central,CUL,111,Intro to Prof Cooking Pr,6.0,LC,
+Central,CUL,112,Quantity Cook: Practicum,8.0,LC,OF1
+Central,CUL,112,Quantity Cooking: Practi,8.0,LC,OF1
+Central,CUL,113,Restaurant Cooking: Pr,8.0,LC,
+Central,CUL,113,Restaurant Cooking: Prac,8.0,LC,
+Central,CUL,114,Int'l Cooking: Practicum,8.0,LC,
+Central,CUL,114,International Cooking:pr,8.0,LC,
+Central,CUL,116,Intro Cul Arts:practicum,1.0,,
+Central,CUL,116,Intro to Ca: Practicum,1.0,,
+Central,CUL,120,Introduction to Wine,1.0,,
+Central,CUL,151,Sustainable Fsp Part I,1.0,,
+Central,CUL,152,Sustainable Fsp Part Ii,1.0,,
+Central,CUL,153,Sustainable Fsp Part Iii,1.0,,
+Central,CUL,205,Advanced Culinary Theory,1.0,,OF4
+Central,CUL,215,Adv Culinary Practices,4.5,LC,CUL114
+Central,CUL,251,Buffet Cater/Garde Mgr/I,4.0,,
+Central,CUL,255,Buffet Cater/Garde Mgr/P,8.0,LC,
+Central,CUL,299,Independ Project/Culinar,5.0,,
+Central,DES,110,Graphic Design,3.5,,
+Central,DES,122,Typography Ii,3.5,,
+Central,DES,131,Graph Design I,3.5,,
+Central,DES,133,Graphic Design Iii,3.5,,
+Central,DES,145,Graphic Production I,3.5,,
+Central,DES,147,Graphic Production Iii,3.5,,
+Central,DES,151,Interactive I,3.5,,
+Central,DES,153,Interactive Iii,3.5,,
+Central,DES,231,Graphic Design Iv,4.0,,
+Central,DES,232,Graphic Design V,4.0,LC,
+Central,DES,235,Graphic Design Viii,4.0,,
+Central,DES,236,Graphic Design Ix,4.0,,
+Central,DES,249,Graphic Production Iv,4.0,,
+Central,DES,251,Interactive Iv,4.0,,
+Central,DES,253,Interactive Vi,4.0,,
+Central,DES,260,Portfolio Prep,4.0,,
+Central,DES,280,Special Projects I,4.0,,
+Central,DES,282,Special Projects Iii,4.0,,
+Central,DES,299,Ind Study-Graphic Design,5.0,,
+Central,DES,299,Independent Study,1.5,,
+Central,DHY,250,Oral Biology,2.0,eL,
+Central,DHY,251,Human Pathophysiology,3.0,eL,
+Central,DHY,252,FUND.OF Dental Hygiene I,3.0,,
+Central,DHY,253,Clinical Dent Hygiene I,3.0,,
+Central,DHY,254,Health Promotion,2.0,,
+Central,DHY,255,Dental Radiology I,2.0,,
+Central,DHY,256,Dental Radiology I Pract,2.0,,
+Central,DHY,257,Head & Neck Anatomy,2.0,HY,
+Central,DHY,258,Dent. Anat. & Morphology,2.0,,
+Central,DHY,259,Dent. Ana. & Morph.(lab),1.0,,
+Central,DHY,260,Emergency Management,1.0,,
+Central,DHY,261,Preventative Dentistry,2.0,,
+Central,DHY,301,Clinical Dh Iii,4.0,,
+Central,DHY,302,Clinical Dh Iv,8.0,,
+Central,DHY,304,Fundamentals of Dhy Iii,2.0,,
+Central,DHY,305,Fund of Dent Hyg Iv,2.0,,
+Central,DHY,308,Restorative Materials Ii,2.0,,
+Central,DHY,309,Rest. Pract Ii,1.0,,
+Central,DHY,310,Adv Resto Prac I,2.0,,
+Central,DHY,311,Pain Control Anesthesia,2.0,,
+Central,DHY,312,Pain Cont Anes Prac,2.0,,
+Central,DHY,318,Oral Pathology,2.0,eL,
+Central,DHY,382,Applied Practice in Dhy,8.0,,
+Central,DHY,384,App Prac in Dh,8.0,,
+Central,DHY,391,Comm Dental Health I,1.0,,
+Central,DHY,400,Adv Prac Dh I,8.0,,
+Central,DHY,402,Adv. Pract. In Dhy Iii,8.0,,
+Central,DHY,404,Prin Dent Hyg Prac I,3.0,,
+Central,DHY,406,Princ. Dhy Prac. Iii,1.0,,
+Central,DHY,407,Capstone Proj Strategies,1.0,,
+Central,DHY,408,Capstone,1.0,,
+Central,DHY,410,Adv Resto Prac Ii,2.0,,
+Central,DHY,412,Restorative Practice Iv,2.0,,
+Central,DHY,413,Perio Ii,2.0,,
+Central,DHY,416,Professional Issues,1.0,,
+Central,DHY,420,Com Dent Heal Iii,1.0,,
+Central,DRMA,108,Rehearsal & Performance,5.0,VLPA Studio,"DRMA121,OR123"
+Central,DRMA,121,Acting,5.0,"VLPA Studio,COM",
+Central,DRMA,122,Acting,5.0,VLPA Studio,DRMA121
+Central,DRMA,123,Acting,5.0,VLPA Studio,DRMA122
+Central,DRMA,131,Intro Technical Theatre,5.0,VLPA,
+Central,DRMA&,101,Introduction to Theatre,5.0,"CCN,VLPA",
+Central,ECED,121,Practicum Ii,4.0,,
+Central,ECED,122,Practicum Iii,4.0,,
+Central,ECED&,105,Intro to Eced,5.0,"CCN,HY",
+Central,ECED&,120,Practicum,2.0,CCN,
+Central,ECED&,132,Infants/Toddlers Care,3.0,CCN,
+Central,ECED&,134,Family Child Care,3.0,CCN,
+Central,ECED&,180,Lang/Literacy Develop,3.0,CCN,
+Central,ECON,100,Survey of Economics,5.0,"HY,ICS",
+Central,ECON&,201,Micro Economics,5.0,"CCN,HY,ICS",MATH098
+Central,ECON&,201,Q-Microeconomics,5.0,"CCN,HY,ICS",MATH098
+Central,ECON&,202,Macro Economics,5.0,"CCN,ICS,GS",MATH098
+Central,ECON&,202,Q-Macroeconomics,5.0,"CCN,HY,ICS,GS",MATH098
+Central,EDUC,200,Peer Tutoring,5.0,,
+Central,EDUC,271,Esl Read/Lang Arts,5.0,eL,
+Central,EDUC,272,Integrate Esl in Mainstr,5.0,eL,
+Central,EDUC&,115,Child Development,5.0,CCN,
+Central,EDUC&,130,Guiding Behavior,3.0,CCN,
+Central,EDUC&,150,Child/Family/Community,3.0,CCN,
+Central,EDUC&,205,Intro to K-12 Education,5.0,"CCN,HY",
+Central,ENGL,097,Integrated Read/Write I,10.0,,
+Central,ENGL,097,Integrating Reading And,10.0,,
+Central,ENGL,098,Integrated Read/Write Ii,10.0,,
+Central,ENGL,098,Integrating Reading And,10.0,,
+Central,ENGL,099,Support for English 101,5.0,LC,
+Central,ENGL,099,Supporting Coll Writing,5.0,LC,
+Central,ENGL,099,Supporting College Writi,5.0,LC,
+Central,ENGL,105,Applied Composition,3.0,,
+Central,ENGL,106,Technical Writing,3.0,,
+Central,ENGL,115,Lgbt Lit Literature,5.0,"HY,VLPA,US",ENGL&101
+Central,ENGL,151,Creative Writing,5.0,"VLPA,COM",ENGL&101
+Central,ENGL,204,Engl Language & Linguist,5.0,VLPA,ENGL&101
+Central,ENGL,218,Holocost Literature,5.0,"VLPA,COM,GS",
+Central,ENGL,232,Young Adult,5.0,"HY,VLPA,US",
+Central,ENGL,270,Beat Generation Writers,5.0,"eL,VLPA",ENGL&101
+Central,ENGL,298,Dir Reading/English,5.0,,
+Central,ENGL,298,Direct Readings English,5.0,,
+Central,ENGL,299,Independent Study,5.0,,
+Central,ENGL&,101,English Composition I,5.0,"CCN,HY",ENGL&101
+Central,ENGL&,102,English Composition Ii,5.0,CCN,ENGL&101
+Central,ENGL&,111,Intro to Literature,5.0,"CCN,VLPA",ENGL&101
+Central,ENGL&,112,Intro to Fiction,5.0,"CCN,eL,VLPA",ENGL&101
+Central,ENGL&,151,Creative Writing,5.0,"CCN,eL",
+Central,ENGL&,224,Shakespeare 1,5.0,"CCN,VLPA,COM","ENGL&101,ENGL&101"
+Central,ENGL&,246,American Literature Iii,5.0,"CCN,eL,VLPA,US",ENGL&101
+Central,ENGR,110,Engineering Orientation,2.0,NW,
+Central,ENGR,240,Intro Numerical Methods,5.0,NW,
+Central,ENGR&,204,Electrical Circuits,5.0,CCN,"MATH&152,MATH125,PHY202,PHYS&222"
+Central,ENGR&,214,Statics,5.0,"CCN,NW",
+Central,ENGR&,224,Thermodynamics,5.0,"CCN,NW","CHE140,CHEM&161,MAT126,MATH&153,PHY202,PHYS&222"
+Central,ENGR&,225,Mechanics of Materials,5.0,"CCN,NW","EGR210,ENGR&214,MAT125,MATH&152"
+Central,ENVS,150,Is-Environ Issues/Prob I,5.0,"ICS,NW,GS,IS",
+Central,ENVS,150,Is-Environmental Science,5.0,"eL,ICS,NW,GS,IS",
+Central,ENVS,160,Prin of Sustainability,5.0,"eL,ICS,NW,GS,IS","ENGL&101,MATH088,MATH091"
+Central,ENVS,202,Princ of Agroecology,5.0,"ICS,NWLab,GS,IS",
+Central,ENVS,216,Sustainable Urban Food,5.0,NWLab,"BIOL&213,BOT110,ENV200"
+Central,ENVS,299,Independent Study,5.0,,
+Central,ENVS&,100,Is-Environmental Science,5.0,"CCN,ICS,NW",
+Central,ENVS&,100,Is-Environmntl Issues/Pr,5.0,"CCN,HY,ICS,NW",
+Central,ENVS&,101,Intro to Envs Science Lb,5.0,"CCN,ICS,NWLab","ENGL&101,MATH084,OR091"
+Central,ESL,007,Esl Pre-Literacy,10.0,,
+Central,ESL,007,Esl-Pre Literacy,10.0,,
+Central,ESL,007,Esl-Pre-Literacy,12.0,,
+Central,ESL,010,Esl 1 L/S,13.0,,
+Central,ESL,010,Esl 1-Support,10.0,,
+Central,ESL,010,Esl Level 1,10.0,,
+Central,ESL,015,Esl 1 R/W,5.0,LC,
+Central,ESL,016,Esl 1 L/S,5.0,LC,
+Central,ESL,020,Esl 2,15.0,,"ESL010,ESL012"
+Central,ESL,020,Esl 2-Support,10.0,,"ESL010,ESL012"
+Central,ESL,025,Esl 2 R/W,5.0,LC,
+Central,ESL,026,Esl 2 L/S,5.0,LC,
+Central,ESL,030,Esl 3,10.0,HY,
+Central,ESL,030,Esl Level 3,6.0,"HY,LC",
+Central,ESL,030,Esl-Level 3,12.0,,
+Central,ESL,035,Esl 3 R/W,7.0,"HY,LC",LEVEL3
+Central,ESL,036,Esl 3 L/S,6.0,"HY,LC","ESL022,LEVEL3"
+Central,ESL,037,Esl3 C.A.L.L.,5.0,,
+Central,ESL,039,Pe Voc Esl 3:allied,15.0,HY,
+Central,ESL,039,Voc Esl 3:allied Health,6.0,HY,
+Central,ESL,040,Esl 4,10.0,HY,
+Central,ESL,040,Esl Level 4,7.0,"HY,LC",
+Central,ESL,040,Esl-Level 4,5.0,,
+Central,ESL,045,Esl 4 Speak & Listen,6.0,"HY,LC",ESL035
+Central,ESL,045,Esl 4a R/W,7.0,"HY,LC",ESL035
+Central,ESL,046,Esl 4a L/S,6.0,"HY,LC",ESL036
+Central,ESL,047,Esl 4 C.A.L.L.,5.0,,
+Central,ESL,047,Esl4 C.A.L.L.,5.0,,
+Central,ESL,049,Pe Voc Esl 4:allied,15.0,HY,
+Central,ESL,049,Voc Esl 4:allied Health,6.0,HY,
+Central,ESL,055,Esl 5a R/W,5.0,,ESL045
+Central,ESL,056,Esl 5a L/S,5.0,,ESL046
+Central,ESL,057,Esl 5 C.A.L.L.,5.0,,
+Central,ESL,057,Esl5 C.A.L.L.,5.0,,
+Central,ESL,059,Ece Vesl,3.0,,
+Central,ESL,059,Esl 5.1 for Allied Healt,15.0,HY,
+Central,ESL,059,Pe Esl 5.1 for Allied,6.0,HY,
+Central,ESL,068,Educ'l Interview for Esl,2.0,"HY,LC",
+Central,ESL,068,Orien/Int,1.0,,
+Central,ESL,076,English Pronunciation,5.0,,ESL031
+Central,ESL,081,College & Career Readine,10.0,,"ESL055,ESL056"
+Central,ESL,090,Coll. Prep Read 1(esl-T),5.0,LC,
+Central,ESL,090,Coll. Prep Reading Esl-T,5.0,LC,
+Central,ESL,091,COLL.PREP Writing(esl-T),5.0,LC,
+Central,ESL,091,Coll. Prep Writing Esl-T,5.0,LC,
+Central,ESL,093,Basic English Writing,5.0,LC,
+Central,ESL,096,Coll. Prep Read 1,5.0,LC,ESL093
+Central,ESL,096,Coll. Prep Reading 1,5.0,LC,ESL093
+Central,ESL,097,Coll. Prep Writing 1,5.0,LC,ESL093
+Central,ESL,098,Coll. Prep Read 2,5.0,LC,"ESL096,ESL097"
+Central,ESL,098,Coll. Prep Reading,5.0,LC,"ESL096,ESL097"
+Central,ESL,098,College Prep/Non-Natives,5.0,LC,"ESL096,ESL097"
+Central,ESL,099,Coll Prep/Write 2,5.0,LC,"ESL096,ESL097"
+Central,ESL,099,Coll. Prep Write 2,5.0,LC,"ESL096,ESL097"
+Central,ESL,099,Coll. Prep Writing,5.0,LC,"ESL096,ESL097"
+Central,FAM,050,Parent/Child: Infants,2.5,,
+Central,FAM,052,Parent Ed.: 12-24 Months,2.5,,
+Central,FAM,060,Parent/Child: Toddlers,2.5,,
+Central,FAM,062,Parent Ed Child Study,2.5,,
+Central,FAM,070,Parent/Child: Threes,2.5,,
+Central,FAM,072,Parent Ed.: 36-48 Months,2.5,,
+Central,FAM,080,Parent/Child: Pre-K,2.5,,
+Central,FAM,082,Parent Ed.: 48-60 Months,2.5,,
+Central,FRCH,298,Indep. Study/French,5.0,,
+Central,FRCH,298,Independent Study - Frch,5.0,,
+Central,FRCH,299,Independent Study - Frch,5.0,,
+Central,FRCH&,121,French I,5.0,"CCN,HY,VLPA",
+Central,FRCH&,122,French Ii,5.0,"CCN,HY,VLPA",
+Central,FRCH&,123,French Iii,5.0,"CCN,HY,VLPA",FRCH&122
+Central,FRCH&,221,French Iv,5.0,"CCN,VLPA",
+Central,GED,050,Basic Ged Preparation 5,9.0,,
+Central,GED,050,Ged 5,10.0,,
+Central,GED,051,Ged 5 Math,8.0,,LEVEL4
+Central,GED,051,Ged Math 5,8.0,,LEVEL4
+Central,GED,052,Ged 5 Comm,10.0,,
+Central,GED,060,Basic Ged Preparation 6,9.0,,
+Central,GED,060,Ged 6,10.0,,
+Central,GED,061,Ged 6 Math,8.0,,
+Central,GED,062,Ged 6 Comm,10.0,,
+Central,GEOG&,100,Intro to Geography,5.0,"CCN,ICS",ENGL&101
+Central,GEOL&,101,Physical Geology,5.0,"CCN,NWLab",
+Central,HDC,101,Orientation to College,2.0,,
+Central,HDC,114,Listen/Lec Note Taking,1.0,,
+Central,HDC,190,Women in Society,2.0,,
+Central,HEA,125,Health and Wellness,5.0,NW,
+Central,HEA,225,Global Health,5.0,"NW,GS,IS",
+Central,HEA,226,Advanced Global Health,2.0,,
+Central,HEA,299,Hea/Ntr Indep Study,5.0,,
+Central,HIST,131,Asian-American History,5.0,"ICS,US",
+Central,HIST,150,Hist. Amer. Minorities,5.0,"ICS,US",
+Central,HIST,269,History of the Holocost,5.0,"ICS,GS",
+Central,HIST,298,Special Topics - History,5.0,,
+Central,HIST,298,Special Topics/History,5.0,,
+Central,HIST&,126,World Civilizations I,5.0,"CCN,HY,ICS,GS",
+Central,HIST&,127,World Civilizations,5.0,"CCN,ICS,GS",
+Central,HIST&,128,World Civilizations Iii,5.0,"CCN,eL,ICS,GS",
+Central,HIST&,136,Us History 1,5.0,"CCN,ICS,US",
+Central,HIST&,137,Us History 2,5.0,"CCN,ICS,US",
+Central,HIST&,214,Pacific Nw History,5.0,"CCN,HY,ICS,US",
+Central,HOS,101,Customer Svc Practicum 1,1.0,,
+Central,HOS,101,Customer Svc Practicum I,1.0,,
+Central,HOS,102,Custmr Svc Practicum Ii,1.0,,
+Central,HOS,102,Customer Svs Practicum 2,1.0,,
+Central,HOS,103,Cstmr Svc Practicum Iii,1.0,,
+Central,HOS,103,Cust Svc Practicum Iii,1.0,,
+Central,HOS,104,Cstmr Svc Practicum Iv,1.0,,
+Central,HOS,104,Cust Service Practicum 4,1.0,,
+Central,HOS,105,Customer Svc for Sd & B,1.0,,
+Central,HOS,105,Customer Svc for Sd&b,1.0,,
+Central,HOS,108,Dining Rm Kitchen Mgmt,4.0,,
+Central,HOS,108,Dining Room/Kitchen Mgmt,4.0,,
+Central,HOS,110,Principles of Sanitation,3.0,HY,
+Central,HOS,111,Dining Room Theory,1.0,,
+Central,HOS,111,Intro to Cust Svc Theory,1.0,,
+Central,HOS,112,Ms Excel,1.0,,
+Central,HOS,122,Purchasing & Inventory,1.0,,
+Central,HOS,122,Purchasing/Inventory:th,1.0,,
+Central,HOS,123,Food Cost Princ.& Applic,1.0,,
+Central,HOS,123,Food Costing Principles,1.0,,
+Central,HOS,124,Computerized Menu Plann,2.0,,OF3
+Central,HOS,124,Computerized Menu Planng,2.0,,OF3
+Central,HOS,201,Functions of Management,2.0,,
+Central,HSC,041,Fine Arts Portfolio,5.0,,
+Central,HSC,042,Health Portfolio,5.0,,
+Central,HSC,043,Language Arts,5.0,,
+Central,HSC,043,Language Arts Portfolio,4.0,,
+Central,HSC,043,Language Portfolio,5.0,,
+Central,HSC,044,Lab Science,5.0,,
+Central,HSC,044,Lab Science Portfolio,4.0,,
+Central,HSC,045,Pe Portfolio,5.0,,
+Central,HSC,045,Physical Edu Portfolio,4.0,,
+Central,HSC,046,Math Portfolio,5.0,,
+Central,HSC,047,Wa History,5.0,,
+Central,HSC,047,Wa History Portfolio,5.0,,
+Central,HSC,047,Wa State History,4.0,,
+Central,HSC,048,Occ Ed Portfolio,5.0,,
+Central,HSC,048,Pa Occ Ed Port,5.0,,
+Central,HSC,055,Science Portfolio,5.0,,
+Central,HSC,082,Hsc Spec Top:us Hist,5.0,,
+Central,HSC,082,Hsc Special Topics,5.0,,
+Central,HSM,301,Prin Health Svc Manag,5.0,HY,
+Central,HSM,451,Hlth Outcomes Qlty Mgmt,5.0,HY,"ENGL&102,HSM301,MATH&146"
+Central,HSM,479,Hsm Capstone,5.0,HY,
+Central,HUM,104,Visual Thinking and Comm,5.0,VLPA,ENGL098
+Central,HUM,105,Intercultural Communic,5.0,"VLPA,COM,US,IS",
+Central,HUM,105,Interculture Communicati,5.0,"HY,VLPA,COM,US,IS",
+Central,HUM,105,Is/S Intercultural Comm,5.0,"VLPA,COM,US,IS",
+Central,HUM,110,Intro to American Film,5.0,VLPA,
+Central,HUM,110,Intro to Film,5.0,VLPA,
+Central,HUM,125,Hip-Hop Theory & Culture,5.0,"eL,VLPA,US,IS",
+Central,HUM,145,Film Genres (Sci-Fi),5.0,VLPA,
+Central,HUM,200,Reading the Media,5.0,"VLPA,COM,US",ENGL&101
+Central,HUM,210,Lgbtq Studies,5.0,"VLPA,US",ENGL&101
+Central,HUM,294,Independent Hum Projects,5.0,,
+Central,HUM,294,Independent Projects Hum,5.0,,
+Central,HUM,299,Sp Problems in Humanitie,5.0,,
+Central,HUM,299,Special Problems,5.0,,
+Central,HUM,299,Special Problems - Hum,5.0,,
+Central,INFO,101,Information Resources,3.0,"HY,LC",
+Central,ITC,102,Information Cmpt Concpts,3.0,,
+Central,ITC,102,Intro Inform Sys Concept,3.0,,
+Central,ITC,110,Program Design & Develop,5.0,,BTM111
+Central,ITC,110,Programming Fundamentals,5.0,,BTM111
+Central,ITC,115,Object Oriented Programg,5.0,,
+Central,ITC,134,Operating Systems,5.0,,
+Central,ITC,136,Unix Operating System,5.0,,
+Central,ITC,136,Unix Operating Systems,5.0,,
+Central,ITC,140,Intro to Computer Hardwr,5.0,,ITC102
+Central,ITC,151,Intro Network Security,5.0,,NET120
+Central,ITC,155,Data Structures,5.0,,ITC115
+Central,ITC,162,Intro to Mobil Developmt,5.0,,
+Central,ITC,172,.Net Web Programming,5.0,,
+Central,ITC,205,Career Strategies Xx Tem,2.0,,
+Central,ITC,210,Adv Web Development,5.0,,ITC280
+Central,ITC,210,Advanced Web Development,5.0,,ITC280
+Central,ITC,220,Database Dev for Program,5.0,,
+Central,ITC,220,Database Development,5.0,,
+Central,ITC,222,Sql,5.0,,ITC220
+Central,ITC,224,Database Programming,5.0,,"ITC220,ITC222"
+Central,ITC,226,Database Administration,5.0,,ITC222
+Central,ITC,230,Adavanced Javascript,5.0,,WEB150
+Central,ITC,230,Advanced Javascript,5.0,,WEB150
+Central,ITC,240,Web Apps 1,5.0,,
+Central,ITC,250,Web App Programming 2s,5.0,,ITC240
+Central,ITC,250,Web Apps 2,5.0,,ITC240
+Central,ITC,255,Systems Analysis/Design,5.0,,
+Central,ITC,260,Web App Programming 3,5.0,,ITC250
+Central,ITC,260,Web Apps 3,5.0,,ITC250
+Central,ITC,285,Capstone Project Class,5.0,,
+Central,ITC,298,Spc Top:mobile App Dev,5.0,,
+Central,ITC,299,Ind Study,5.0,,
+Central,ITC,299,Ind Study:cmptr Info Sys,5.0,,
+Central,JAPN&,121,Japanese I,5.0,"CCN,VLPA",
+Central,JAPN&,122,Japanese Ii,5.0,"CCN,VLPA",
+Central,JAPN&,123,Japanese Iii,5.0,"CCN,VLPA",JAPN&122
+Central,LAN,101,Intro to Linguistics,5.0,"eL,VLPA",
+Central,LCS,090,Learning Center Seattle,15.0,,
+Central,MATH,080,Preparatory Mathematics,5.0,HY,
+Central,MATH,081,Basic Math Skills,5.0,,
+Central,MATH,087,Foundations of Algebra,5.0,,
+Central,MATH,087,Foundations of Algebra 1,5.0,,
+Central,MATH,087,Foundations of Algebra I,5.0,,
+Central,MATH,088,Algebra in Context,5.0,,"MATH084,OR096"
+Central,MATH,091,Descr. Stats W Algebra 1,5.0,,
+Central,MATH,096,Foundations Algebra Ii,2.0,,"MATH084,OR088"
+Central,MATH,098,Intermediate Algebra,5.0,,
+Central,MATH,110,Appl Math For:culinary,3.0,,
+Central,MATH,110,Applied Math Culinary,3.0,,
+Central,MATH,110,Applied Math Technicians,3.0,,
+Central,MATH,116,Q-Appl Math to Mgt Life,5.0,"QSR,NW,LC",
+Central,MATH,119,Math Behind Info Tech,3.0,,MATH085
+Central,MATH,136,Inferential Statistics,5.0,"QSR,NW",
+Central,MATH,220,Linear Algebra,5.0,QSR,
+Central,MATH,220,Q-Linear Algebra,5.0,QSR,
+Central,MATH,224,Q-Vector Calculus,5.0,"QSR,NW",
+Central,MATH,238,Q-Differential Equations,5.0,"QSR,NW",
+Central,MATH,299,Independent Study,1.0,,
+Central,MATH&,107,Math in Society,5.0,"CCN,eL,QSR,NW",
+Central,MATH&,141,Q-Precalc 1: Functions,5.0,"CCN,QSR,NW",
+Central,MATH&,141,Q-Precalc I: Functions,5.0,"CCN,QSR,NW",
+Central,MATH&,142,Q-Precalc Ii: Trig,5.0,"CCN,QSR,NW",
+Central,MATH&,142,Q-Precalculus Ii: Trig,5.0,"CCN,QSR,NW",
+Central,MATH&,146,Introduction to Stats,5.0,"CCN,HY,QSR,NW",
+Central,MATH&,146,Q-Statistics,5.0,"CCN,QSR,NW",
+Central,MATH&,148,Elem. Of Business Calc.,5.0,"CCN,QSR,NW",
+Central,MATH&,151,Q-Calc I: Differential,5.0,"CCN,QSR,NW",
+Central,MATH&,152,Q-Calc Ii: Integral,5.0,"CCN,QSR,NW",
+Central,MATH&,152,Q-Calculus Ii,5.0,"CCN,QSR,NW",
+Central,MATH&,163,Calculus 3,5.0,"CCN,QSR,NW",
+Central,MATH&,163,Calculus Iii,5.0,"CCN,QSR,NW",
+Central,MATH&,163,Q-Calculus Iii,5.0,"CCN,QSR,NW",
+Central,MEY,100,Meteorology,5.0,"eL,NW",
+Central,MGO,101,Prin of Marine Mechanics,2.0,,
+Central,MGO,103,Survival Craft,3.0,,
+Central,MGO,105,Leadership & Management,3.0,,
+Central,MGO,111,Seamanship,3.0,,
+Central,MGO,112,Marlinspike,2.0,,
+Central,MGO,113,Marine Safety,3.0,,
+Central,MGO,119,Marine Math,3.0,,
+Central,MGO,120,Vessel Maintenance,2.0,,
+Central,MGO,124,Basic Vessel Handling,2.0,,
+Central,MGO,166,Navigation Practicum,6.0,,"MGO123,MGO133,MGO137,MGO140"
+Central,MGO,177,Adv. Engineering Practic,6.0,,MGO147
+Central,MGO,200,At Sea Internship,4.0,,
+Central,MIC,102,Ms Excel,1.0,,
+Central,MRT,101,Intro to Composites,14.0,,WCO110
+Central,MRT,102,Intro to Marine Electric,4.0,,"GPA2,WCO110"
+Central,MRT,103,Wood Boat Joinery/Repair,10.0,,"GPA2,MRT101,MRT102"
+Central,MRT,104,Marine Mechanics,8.0,,"GPA2,MRT101,MRT102"
+Central,MRT,105,Advanced Composites,14.0,,"MINIMUM2,MRT103,MRT104"
+Central,MRT,106,Marine Electrical Ii,4.0,,"MINIMUM2,MRT103,MRT104"
+Central,MRT,108,Advanced Wooden Boat,18.0,,"MRT105,MRT106"
+Central,MTS,201,Naval Architecture,2.0,,
+Central,MTS,210,Marine Meteorology,2.0,,
+Central,MTS,212,Aux. Machinery & Shp Des,4.0,,
+Central,MTS,217,Diesel Engine Maintenane,4.0,,
+Central,MTS,221,Applied Marine Electric,4.0,,MGO127
+Central,MTS,223,Adv Piloting & Navigatin,3.0,,MGO123
+Central,MTS,228,Marine Hydraulics,5.0,,
+Central,MTS,257,Adv. Diesel Engines,4.0,,MTS217
+Central,MTS,284,Shipboard Pollution Prev,2.0,,
+Central,MTS,294,License Seminar,2.0,,
+Central,MUSC,110,Intro to World Music,5.0,"eL,VLPA,GS",
+Central,MUSC,113,Music in the U.S.,5.0,"VLPA,US",
+Central,MUSC,116,Rock Music-His. & Perspe,5.0,"eL,VLPA,US,IS",
+Central,MUSC,116,Rock Music-History,5.0,"eL,VLPA,US,IS",
+Central,MUSC,119,Beg. Group Voice,2.0,VLPA Studio,
+Central,MUSC,119,Group Voice,2.0,VLPA Studio,
+Central,MUSC,120,Int Group Voice,2.0,VLPA Studio,MUSC119
+Central,MUSC,120,Intermediate Group Voice,2.0,VLPA Studio,MUSC119
+Central,MUSC,126,Beg Group Piano,2.0,VLPA Studio,
+Central,MUSC,126,Beginning Group Piano,2.0,VLPA Studio,
+Central,MUSC,127,Int Group Piano I,2.0,VLPA Studio,MUSC126
+Central,MUSC,127,Int Group Piano-I,2.0,VLPA Studio,MUSC126
+Central,MUSC,127,Intermediate Piano I,2.0,VLPA Studio,MUSC126
+Central,MUSC,128,Int Group Piano Ii,2.0,VLPA Studio,MUSC127
+Central,MUSC,128,Intermediate Piano Ii,2.0,VLPA Studio,MUSC127
+Central,MUSC,130,Indiv Instr: Voice,2.0,VLPA Studio,
+Central,MUSC,130,Individual Voice Instruc,2.0,VLPA Studio,
+Central,MUSC,130,Individual: Voice,2.0,VLPA Studio,
+Central,MUSC,134,Ind Inst:woodwinds,2.0,VLPA Studio,
+Central,MUSC,134,Indiv Instr: Woodwinds,2.0,VLPA Studio,
+Central,MUSC,134,Individual: Woodwinds,2.0,VLPA Studio,
+Central,MUSC,135,Ind Inst Percuss,2.0,VLPA Studio,
+Central,MUSC,135,Indiv Instr: Percussion,2.0,VLPA Studio,
+Central,MUSC,135,Individual: Percussion,2.0,VLPA Studio,
+Central,MUSC,136,IND.INST: Composition,2.0,VLPA Studio,
+Central,MUSC,136,Indiv Instr: Composition,2.0,VLPA Studio,
+Central,MUSC,136,Individual: Composition,2.0,VLPA Studio,
+Central,MUSC,138,Indiv Instr: Guitar,2.0,VLPA Studio,
+Central,MUSC,138,Individual Inst: Guitar,2.0,VLPA Studio,
+Central,MUSC,138,Individual: Guitar,2.0,VLPA Studio,
+Central,MUSC,146,Central Jazz Ensemble,5.0,VLPA Studio,
+Central,MUSC,146,Jazz Ensemble I,5.0,VLPA Studio,
+Central,MUSC,147,Central Jazz Ensemble,5.0,VLPA Studio,
+Central,MUSC,147,Jazz Ensemble Ii,5.0,VLPA Studio,
+Central,MUSC,148,Central Jazz Ensemble,5.0,VLPA Studio,
+Central,MUSC,148,Jazz Ensemble Iii,5.0,VLPA Studio,
+Central,MUSC,151,Performance Experience,2.0,VLPA Studio,
+Central,MUSC,161,Is/American Popular Musc,5.0,"VLPA,US,IS",
+Central,MUSC,171,Indiv Instr: Piano,2.0,VLPA Studio,
+Central,MUSC,171,Indiv Instruction Piano,2.0,VLPA Studio,
+Central,MUSC,171,Individual: Piano,2.0,VLPA Studio,
+Central,MUSC,173,Indiv Instr: Brass,2.0,VLPA Studio,
+Central,MUSC,173,Individual Inst: Brass,2.0,VLPA Studio,
+Central,MUSC,173,Individual: Brass,2.0,VLPA Studio,
+Central,MUSC,185,Computer Music Recording,5.0,VLPA,
+Central,MUSC,185,Computer Music/Recording,5.0,VLPA,
+Central,MUSC,186,Song Writing & Musc Prod,5.0,VLPA,MUSC185
+Central,MUSC,204,History of Jazz,5.0,"eL,VLPA,US",
+Central,MUSC,221,Advanced Group Piano I,2.0,VLPA Studio,MUSC128
+Central,MUSC,221,Group Piano 4th Qtr,2.0,VLPA Studio,MUSC128
+Central,MUSC,222,Adv Group Piano Ii,2.0,VLPA Studio,MUSC221
+Central,MUSC,222,Advanced Group Piano,2.0,VLPA Studio,MUSC221
+Central,MUSC,222,Advanced Group Piano Ii,2.0,VLPA Studio,MUSC221
+Central,MUSC,223,Adv Group Piano Iii,2.0,VLPA Studio,MUSC222
+Central,MUSC,223,Advanced Group Piano,2.0,VLPA Studio,MUSC222
+Central,MUSC,223,Advanced Group Piano Iii,2.0,VLPA Studio,MUSC222
+Central,MUSC,298,Practicum in Music,5.0,,
+Central,MUSC,299,Practicum in Music,5.0,,
+Central,MUSC&,105,Music Appreciation,5.0,"CCN,VLPA",
+Central,MUSC&,141,Music Theory I,5.0,"CCN,VLPA",
+Central,NET,120,Net Essentials-Comptia +,5.0,,
+Central,NET,120,Network Communications I,5.0,,
+Central,NET,120,Network Essentials,5.0,,
+Central,NET,122,Network Operating Syst 1,5.0,,
+Central,NET,124,Network Op Systems-Pt 2,5.0,,
+Central,NET,126,Net Operating Systems 3,5.0,,
+Central,NET,138,Unix for Network Admin,5.0,,
+Central,NET,142,Network Mgt Cisco I,5.0,,
+Central,NET,146,Network Manage. Cisco 3,5.0,,
+Central,NET,200,Enterprise Applications,5.0,,
+Central,NME,110,New Media,6.0,LC,
+Central,NME,130,New Media,6.0,LC,
+Central,NTI,300,Linux/Enterprise Scripti,5.0,HY,"ITC110,ITC136"
+Central,NTI,320,App & Network Monitoring,5.0,,"NTI300,NTI310"
+Central,NTI,340,Enterprise Routing Ccnp,5.0,HY,
+Central,NTI,360,Entrp Trblshoot-Ccnp3,5.0,,
+Central,NUR,113,Nursing Practice Iii,4.0,,
+Central,NUR,207,Nursing V:med/Surgcl Nur,4.0,,
+Central,NUR,208,Nursing Vi - Fam Nursing,6.0,,
+Central,NUR,217,Nursing Practice V,5.0,,
+Central,NUR,218,Nursing Practice Vi,3.0,,
+Central,NUR,220,Health Prom/Managing Car,2.0,,
+Central,NUR,230,Trans. To Prof Nursing,2.0,,
+Central,NURS,101,Nur I: Fund of Nursing,4.0,LC,
+Central,NURS,102,Med-Surg Nursing I,3.0,,
+Central,NURS,103,Med-Surg Nursing Ii,3.0,,
+Central,NURS,111,Skills Lab I,2.0,,
+Central,NURS,112,Nursing Practice I,3.0,,
+Central,NURS,113,Skills Lab Ii,1.0,,
+Central,NURS,121,Nursing Practice,3.0,,
+Central,NURS,123,Nursing Practice Ii,4.0,,
+Central,NURS,132,Behavioral Health Nursin,3.0,,
+Central,NURS,142,Behav. Health Practice,3.0,,
+Central,NURS,204,Med-Surgical Nursing Iii,5.0,,
+Central,NURS,214,Nursing Practice Iii,3.0,,
+Central,NURS,224,Pediatric Nursing,3.0,,
+Central,NURS,234,Pediatric Practice,1.0,,
+Central,NUTR&,101,Human Nutrition,5.0,"CCN,HY,NW",
+Central,OCEA,299,Ind Study-Oceanography,5.0,,OCE100
+Central,OCEA&,100,Intro to Oceanography,5.0,"CCN,eL,NW",
+Central,OCEA&,100,Survey of Oceanography,5.0,"CCN,eL,NW",
+Central,OCEA&,101,Intro Oceanography W/Lab,5.0,"CCN,NWLab",
+Central,OCEA&,101,Survey of Oceanography,5.0,"CCN,NWLab",
+Central,OPH,187,Cooperative Work Exper,3.0,,
+Central,OPH,188,Cooperative Work Exper,3.0,,
+Central,OPH,189,Cooperative Work Exper,3.0,,
+Central,OPH,205,Contact Lens Tech Iv,2.0,,
+Central,OPH,215,Benchwork Equip & Tech,3.0,,
+Central,OPH,225,Contact Lens Tech Iv E&t,1.0,eL,
+Central,OPH,237,Ophth Bus Disp Iii,1.0,eL,
+Central,OPH,247,Oph Bus E&t Iii (247),2.0,,
+Central,OPH,290,Comprehensive,7.0,,
+Central,PEC,136,Yoga,2.0,HY,
+Central,PEC,150,Physical Fitness,2.0,HY,
+Central,PEC,165,Body Conditioning,2.0,HY,
+Central,PEC,172,Int Salsa & Latin Dance,2.0,,
+Central,PEC,181,Wellness Management,3.0,HY,
+Central,PHIL,102,Contemp Moral Problems,5.0,"ICS,IS",
+Central,PHIL,131,Ethics&policy Healthcare,1.0,,
+Central,PHIL,132,Eth & Policy Hcare Ii,2.0,,
+Central,PHIL,215,Is-Intro to Ethics,5.0,"eL,ICS,IS",
+Central,PHIL,298,IND.STUDY in Philosophy,5.0,,
+Central,PHIL,298,Ind Study in Philosophy,5.0,,
+Central,PHIL&,101,Intro to Philosophy,5.0,"CCN,ICS,IS",
+Central,PHIL&,101,Is-Intro to Philosophy,5.0,"CCN,ICS,IS",
+Central,PHIL&,120,Symbolic Logic,5.0,"CCN,QSR,NW","MATH088,MATH098"
+Central,PHO,110,Survey of Photography,3.5,,
+Central,PHO,111,Camera Techniques I,3.5,,
+Central,PHO,121,Lighting Techniques I,3.5,,
+Central,PHO,131,Audio Production,3.5,,
+Central,PHO,256,Portfolio Iii,3.0,,
+Central,PHO,266,New Media Workshop,3.0,,
+Central,PHO,276,Portfolio Workshop,3.0,,
+Central,PHO,286,Special Projects,3.0,,
+Central,PHYS,298,Spec Top: Phys Independe,2.0,,
+Central,PHYS,298,Special Topics: Physics,2.0,,
+Central,PHYS,299,Phys& 222 Study Skills,1.0,,
+Central,PHYS,299,Physics Study Skills,1.0,,
+Central,PHYS&,100,Physics Non-Sci Majors,5.0,"CCN,NW",
+Central,PHYS&,114,Q-General Physics I,5.0,"CCN,NWLab",
+Central,PHYS&,116,Q-General Physics Iii,5.0,"CCN,NWLab",
+Central,PHYS&,221,Engineering Physics I,5.0,"CCN,NWLab",
+Central,PHYS&,221,Q-Engineering Physics I,5.0,"CCN,NWLab",
+Central,PHYS&,222,Engineering Physics Ii,5.0,"CCN,NWLab,LC","MATH&152,PHYS&221"
+Central,PHYS&,222,Q-Engineering Physics Ii,5.0,"CCN,NWLab","MATH&152,PHYS&221"
+Central,PHYS&,223,Engineering Physics Iii,5.0,"CCN,NWLab",
+Central,PHYS&,223,Q-Engineering Physicsiii,5.0,"CCN,NWLab",
+Central,POLS,298,Ind. Study in Pol. Sci.,5.0,,
+Central,POLS,298,Independent Study - Pol,5.0,,
+Central,POLS&,101,Intro Political Science,5.0,"CCN,ICS",
+Central,POLS&,202,American Government,5.0,"CCN,ICS",
+Central,POLS&,203,International Relations,5.0,"CCN,ICS,GS,IS",
+Central,POLS&,203,Is-Intern Relations,5.0,"CCN,HY,ICS,GS,IS",
+Central,PSYC,120,Psy of Adjustment,3.0,"ICS,COM",
+Central,PSYC,120,Psychology of Adjustment,3.0,"ICS,COM",
+Central,PSYC,120,S-Psychology of Adjustme,3.0,"ICS,COM",
+Central,PSYC,132,Psyoc Issues Hcare I,2.0,,
+Central,PSYC,209,Fund Psych Research,5.0,ICS,
+Central,PSYC,209,Fundamentals of Psyc Res,5.0,"HY,ICS",
+Central,PSYC,222,Survey of Physiol. Psych,5.0,NW,ENGL101
+Central,PSYC,230,Human Sexuality,5.0,"ICS,IS",
+Central,PSYC,240,Psych of Human Relations,3.0,,
+Central,PSYC,245,Social Psychology,5.0,"ICS,COM,US",
+Central,PSYC,250,Psy of African American,5.0,"ICS,US,IS",
+Central,PSYC,298,Ind. Study in Psychology,5.0,,
+Central,PSYC,298,Individual Study - Psych,5.0,,
+Central,PSYC,299,Special Problems - Psych,5.0,,
+Central,PSYC&,100,General Psychology,5.0,"CCN,ICS",ENGLISH101
+Central,PSYC&,200,Lifespan Psychology,5.0,"CCN,eL,ICS,COM,US",PSYC&100
+Central,PSYC&,220,Abnormal Psychology,5.0,"CCN,ICS",
+Central,RCP,330,Acute Care Clinical Ii,5.0,,
+Central,RCP,338,Fund Mechanical Ventilat,4.0,,
+Central,RCP,339,Mech Vent Eqp&t,1.0,,
+Central,RCP,340,Adlt Critl Care Clinic I,4.0,,
+Central,RCP,347,Cardiology for Resp Care,2.0,HY,
+Central,RCP,348,Adv Mechanical Ventilati,2.0,HY,
+Central,RCP,349,Adv Mech Vent Equip&tech,1.0,,
+Central,RCP,450,Adult Crit Care Clin Ii,6.0,,
+Central,RCP,451,Neo/Peds Patho,2.0,,
+Central,RCP,455,Advanced Pharmacology,2.0,,
+Central,RCP,458,Neo/Peds Rc,4.0,,
+Central,RCP,459,Neo/Peds E & T,1.0,,
+Central,RCP,460,Neo/Ped Clinical,6.0,,
+Central,RCP,470,Adult Crit Care Clin Iii,6.0,,
+Central,RCP,472,Adv Practitioner Exm Rvw,1.0,,
+Central,RCP,476,Adv. Patient Assessment,3.0,,
+Central,RCP,479,Rcp Capstone,4.0,HY,
+Central,SHS,100,Intro to Human Services,5.0,,
+Central,SHS,103,Social Welfare Policy,5.0,,
+Central,SHS,106,Prin of Interview & Coun,5.0,,"ENGL&101,MINIMUM2,SHS100,SHS103"
+Central,SHS,106,Prin/Interviewing&counse,5.0,,"ENGL&101,MINIMUM2,SHS100,SHS103"
+Central,SHS,108,Grp Dynamcs & Counseling,5.0,,SHS100
+Central,SHS,121,Intro to Care Navigation,5.0,,
+Central,SHS,123,Adv Care Coord & Navigat,5.0,,
+Central,SHS,125,Care Navig Older Adults,3.0,,"ENGL&101,MATH084,OR087,OR091"
+Central,SHS,150,Hiv/Aids Bri,1.0,,"MATH084,OR087,OR091"
+Central,SHS,197,Field P/Social & Hum Ser,3.0,,
+Central,SHS,197,Field Placement: Shs,3.0,,
+Central,SHS,198,Field P/Social & Hum Ser,3.0,,"OR6,SPRING17"
+Central,SHS,198,Field Placement: Shs,3.0,,"OR6,SPRING17"
+Central,SHS,199,Field P/Social & Hum Ser,4.0,,"OR6,SPRING17"
+Central,SHS,199,Field Placement: Shs,4.0,,"OR6,SPRING17"
+Central,SHS,209,Grief & Loss in Shs,5.0,,"ENGL&101,MAT087"
+Central,SHS,210,Intro to Diversity in Hs,3.0,,"SHS100,SHS103"
+Central,SHS,215,Adoles. Develop. & Treat,5.0,,"MATH084,OR087,OR091,SHS235"
+Central,SHS,222,Conflict Management,3.0,,"ENGL&101,MATH084"
+Central,SHS,230,Suicide Risk Assessment,3.0,,
+Central,SHS,235,Intro to Chem Dependency,5.0,,"ENGL101,MATH087"
+Central,SHS,235,Intro to Chem. Dependcy,5.0,,"ENGL101,MATH087"
+Central,SHS,255,Co-Occuring Disorders:tr,5.0,,"ENGL&101,MATH084,OR087,OR091,SHS235"
+Central,SHS,270,Ethics in Hs and Cd,5.0,,"ENG101,MATH87,SHS100"
+Central,SHS,298,Spec Top:self Care,2.0,,
+Central,SHS,298,Special Topics: Asam,1.0,,
+Central,SHS,299,Indep Study or Research,5.0,,
+Central,SLN,105,Service Lrn: Business,2.0,,
+Central,SLN,106,Service Lrn: Business,2.0,,
+Central,SLN,107,Service Lrn: Business,2.0,,
+Central,SLN,108,Service Lrn: Business,2.0,,
+Central,SLN,110,Service Lrn:communicatio,2.0,,
+Central,SLN,111,Service Lrn:communicatio,2.0,,
+Central,SLN,112,Service Lrn:communicatio,2.0,,
+Central,SLN,113,Service Lrn:communicatio,2.0,,
+Central,SLN,115,Service Lrn:english,2.0,,
+Central,SLN,116,Service Lrn:english,2.0,,
+Central,SLN,117,Service Lrn:english,2.0,,
+Central,SLN,118,Service Lrn:english,2.0,,
+Central,SLN,120,Service Lrn:health & Hum,2.0,,
+Central,SLN,121,Service Lrn:health & Hum,2.0,,
+Central,SLN,122,Service Lrn:health & Hum,2.0,,
+Central,SLN,123,Service Lrn:health & Hum,2.0,,
+Central,SLN,125,Service Lrn:hos/Cul Arts,2.0,,
+Central,SLN,126,Service Lrn:hos/Cul Arts,2.0,,
+Central,SLN,127,Service Lrn:hos/Cul Arts,2.0,,
+Central,SLN,128,Service Lrn:hos/Cul Arts,2.0,,
+Central,SLN,130,Service Lrn:humanities,2.0,,
+Central,SLN,131,Service Lrn:humanities,2.0,,
+Central,SLN,132,Service Lrn:humanities,2.0,,
+Central,SLN,133,53800ce Lrn:humanities,2.0,,
+Central,SLN,135,Service Lrn:internationa,2.0,,
+Central,SLN,136,Service Lrn:internationa,2.0,,
+Central,SLN,137,Service Lrn:internationa,2.0,,
+Central,SLN,138,Service Lrn:internationa,2.0,,
+Central,SLN,140,Service Lrn:lan & Cul,2.0,,
+Central,SLN,141,Service Lrn:lan & Cul,2.0,,
+Central,SLN,142,Service Lrn:lan & Cul,2.0,,
+Central,SLN,143,Service Lrn:lan & Cul,2.0,,
+Central,SLN,145,Service Lrn:math,2.0,,
+Central,SLN,146,Service Lrn:math,2.0,,
+Central,SLN,147,Service Lrn:math,2.0,,
+Central,SLN,148,Service Lrn:math,2.0,,
+Central,SLN,150,Service Lrn: Science,2.0,,
+Central,SLN,151,Service Lrn:science,2.0,,
+Central,SLN,152,Service Lrn:science,2.0,,
+Central,SLN,153,Service Lrn:science,2.0,,
+Central,SLN,155,Service Lrn:social Scien,2.0,,
+Central,SLN,156,Service Lrn:social Scien,2.0,,
+Central,SLN,157,Service Lrn:social Scien,2.0,,
+Central,SLN,158,Service Lrn:social Scien,2.0,,
+Central,SOC,102,Intro - American Culture,5.0,"ICS,US,IS",
+Central,SOC,102,Intro to Amer Culture,5.0,"ICS,US,IS",
+Central,SOC,102,Intro to American Cultur,5.0,"ICS,US,IS",
+Central,SOC,150,Race & Ethnic Relations,5.0,"ICS,US",
+Central,SOC,220,Sex Roles,5.0,"ICS,GS",
+Central,SOC,220,Sex Roles and Society,5.0,"ICS,GS",
+Central,SOC,298,Special Topics - Soc,5.0,,
+Central,SOC,298,Special Topics in Soc,5.0,,
+Central,SOC,299,Special Probs in Sociolo,5.0,,
+Central,SOC&,101,Intro to Sociology,5.0,"CCN,ICS",
+Central,SOC&,201,Social Problems,5.0,"CCN,ICS",ENGL&101
+Central,SPAN,299,Indep. Study/Spanish,5.0,,
+Central,SPAN,299,Independent Study - Span,5.0,,
+Central,SPAN,299,Independent Study Spani,5.0,,
+Central,SPAN&,121,Spanish I,5.0,"CCN,HY,VLPA",ENGL&101
+Central,SPAN&,122,Spanish Ii,5.0,"CCN,VLPA",SPAN&121
+Central,SPAN&,123,Spanish Iii,5.0,"CCN,VLPA",SPAN&122
+Central,SSC,297,Travel/Study Experience,5.0,,
+Central,SURG,111,Surgical Lab,6.0,,
+Central,SURG,113,Surgical Theory I,10.0,,
+Central,SURG,115,Clinical Orientation,2.0,,
+Central,SURG,133,Surgical Theory Iii,8.0,,
+Central,SURG,135,Clinical Practice Ii,10.0,,
+Central,UGR,214,Intro to Sci Research,2.0,,
+Central,UGR,294,Ugr Independent Study,5.0,,
+Central,WCO,110,Intro to Prof Woodwork,18.0,,
+Central,WCO,110,Intro to Prof Woodworkin,18.0,,
+Central,WCO,141,Res Remodel Preserve Cpy,18.0,,
+Central,WCO,145,Framing Systems,9.0,LC,"WCO110,WCO120"
+Central,WCO,146,Roof Systems,5.0,LC,WCO110
+Central,WCO,147,Stair Systems,4.0,LC,WCO110
+Central,WCO,151,Intro Cabinetmaking Fund,18.0,,
+Central,WCO,153,Basic Cabinetmaking Fund,18.0,,
+Central,WCO,155,Adv Cabinetmaking Arch F,18.0,,
+Central,WCO,157,Independent Capstone Prt,18.0,,
+Central,WCO,203,Intro to Vectorworks,3.0,,BTM098
+Central,WCO,203,Intro to Vectroworks,3.0,LC,BTM098
+Central,WCO,299,Special Proj/Boatbuildng,3.0,,
+Central,WEB,110,Web Authoring 1,4.0,,
+Central,WEB,110,Web Authoring I,4.0,,
+Central,WEB,112,Typography for the Web,3.0,,
+Central,WEB,114,Photoshop for the Web,3.0,,
+Central,WEB,120,Web Authoring Ii,4.0,,
+Central,WEB,130,Web Authoring Iii,4.0,,
+Central,WEB,150,Intro to Javascript,5.0,,WEB110
+Central,WEB,160,Writing for the Web,2.0,,
+Central,WEB,170,Content Mgmt System,4.0,,
+Central,WEB,170,Content Mgmt Systems,4.0,,
+Central,WEB,170,Content Mgmt Systems: Wp,4.0,,
+Central,WEB,200,Theory of Web Design,4.0,,
+Central,WEB,202,User Centered Web Design,4.0,,"WEB120,WEB200"
+Central,WEB,202,User Interface Design,4.0,,"WEB120,WEB200"
+Central,WEB,205,Web Career Strategies,2.0,,
+Central,WEB,210,Advanced Web Design,5.0,,"WEB170,WEB200"
+Central,WMN,200,Intro to Women Studies,5.0,ICS,
+North,ABE,031,ABE Level 3 Math,5.0,,ABE021
+North,ABE,040,ABE Level 4,5.0,,ABE030
+North,ABE,041,ABE Level 4 Math,5.0,,
+North,ABE,042,ABE Level 4 Communication Skills,5.0,,
+North,ABE,044,ABE Level 4 - Computers,5.0,,
+North,ABE,049,Basic Skills Support for Professional Tech Programs,2.0,N,
+North,ABE,051,Adult Secondary Education Math Level 6,5.0,,
+North,ABE,054,ABE Level 5 - Computers,2.0,,
+North,ABE,060,Adult Secondary Education Compass Prep,10.0,,
+North,ABE,061,Adult Secondary Education Math,5.0,N,
+North,ACCT,110,Introduction to Accounting/Bookkeeping I,5.0,WWW,
+North,ACCT,131,QuickBooks,5.0,,"ACCT&201,ACCT110"
+North,ACCT,252,Intermediate Accounting II,5.0,eL,"ACCT202,ACCT251"
+North,ACCT,255,Individual Income Tax,5.0,eL,
+North,ACCT,257,Business Tax Accounting,5.0,eL,ACCT&201
+North,ACCT,265,Accounting for Not-For-Profit and Government Entities,5.0,eL,"ACCT&201,ACCT&202"
+North,ACCT,267,Not for Profit Financial Management,5.0,eL,
+North,ACCT,270,Cost Accounting,5.0,eL,ACCT&203
+North,ACCT,271,Ethics in Accounting,5.0,eL,ACCT202
+North,ACCT,273,Introduction to Financial Crimes,5.0,eL,ACCT200
+North,ACCT&,201,Principles of Accounting I,5.0,CCN,
+North,ACCT&,202,Principles of Accounting II,5.0,CCN,ACCT&201
+North,ACCT&,203,Principles of Accounting III,5.0,CCN,ACCT&202
+North,AD,320,Web Application Development,5.0,N,
+North,AD,325,Data Structure & Algorithms,5.0,N,
+North,AD,330,Professional Communication in IT,5.0,N,
+North,AD,350,Database Technology,5.0,N,
+North,AD,440,Cloud Computing Practicum,5.0,N,"AD&420,AD310"
+North,AHE,119,Intro to Phlebotomy II,7.0,,AHE118
+North,AHE,190,Emergency Medical Technician,12.0,,
+North,AHE,192,Basic Life Support for Healthcare Providers,1.0,N,
+North,AMA,101,Intercultural Communications in Patient Care,3.0,eL,
+North,AMA,102,Medical Law and Ethics,2.0,eL,
+North,AMA,117,Medical Terminology,4.0,eL,"ENGL&101,ENGL&101"
+North,AMA,118,Disease and Pathology for Medical Assistants,5.0,eL,
+North,AMA,230,Medical Office Management,3.0,,
+North,AMA,231,Pharmacology,3.0,,
+North,AMA,232,Sterile Procedures,4.0,,
+North,AMA,233,Diagnostic Procedures,4.0,,
+North,AMA,234,Phlebotomy for the Medical Assistant,3.0,,
+North,AMA,236,Credentials and Employment,2.0,,
+North,AMA,250,Medication Administration,5.0,,
+North,AMA,290,Medical Assisting Externship and CMA Review,9.0,N,
+North,AME,150,America's Ethnic History,5.0,"ICS,US",
+North,ANTH&,204,Archaeology,5.0,"CCN,N,GS,NW",
+North,ANTH&,206,Cultural Anthropology,5.0,"CCN,eL,GS,ICS",
+North,ART,101,Design,5.0,"VLPA,VLPAS",
+North,ART,111,Drawing,5.0,"VLPA,VLPAS",
+North,ART,112,Drawing,5.0,"N,VLPA,VLPAS",ART111
+North,ART,113,Drawing,5.0,"N,VLPA,VLPAS",ART112
+North,ART,114,Introduction to Digital Photography I,5.0,"VLPA,VLPAS",
+North,ART,121,Introduction to Printmaking,5.0,"VLPA,VLPAS",
+North,ART,122,Introduction to Printmaking-Intermediate,5.0,"VLPA,VLPAS",ART121
+North,ART,123,Continuing Printmaking: Monotype and Monoprint,5.0,"VLPA,VLPAS",ART122
+North,ART,166,Video Art,5.0,"VLPA,VLPAS",
+North,ART,201,Painting,5.0,"N,VLPA,VLPAS",
+North,ART,202,Painting,5.0,"DESC,N,VLPA,VLPAS",ART201
+North,ART,203,Painting,5.0,"DESC,N,VLPA,VLPAS",ART202
+North,ART,210,Digital & Graphic Art/ Photoshop + Illustrator,5.0,"WWW,VLPA,VLPAS",
+North,ART,211,Sculpture,5.0,"VLPA,VLPAS",
+North,ART,212,Sculpture,5.0,"VLPA,VLPAS",ART211
+North,ART,213,Sculpture,5.0,"VLPA,VLPAS",ART212
+North,ART,214,Advanced Computer Art,5.0,"VLPA,VLPAS",ART210
+North,ART,215,Digital Art & Graphic Design - Advanced,5.0,"VLPA,VLPAS",ART214
+North,ART,221,Ceramic Art,5.0,"VLPA,VLPAS",
+North,ART,222,Ceramic Art,5.0,"VLPA,VLPAS",ART221
+North,ART,223,Ceramic Art,5.0,"VLPA,VLPAS",ART222
+North,ART,251,Art History,5.0,VLPA,
+North,ART,281,Jewelry Design I,5.0,"VLPA,VLPAS",
+North,ART,283,Introduction to Alloying and Jewelry Casting,5.0,"VLPA,VLPAS",ART282
+North,ART,290,The Art Business,5.0,"VLPA,W",
+North,ART,299,Special Problems in Art,3.0,,
+North,ART&,100,Art Appreciation,5.0,"CCN,VLPA",
+North,ASL&,121,American Sign Language,5.0,"CCN,VLPA",
+North,ASL&,122,American Sign Language II,5.0,"CCN,VLPA","ASL&121,ASL101"
+North,ASL&,123,American Sign Language III,5.0,"CCN,N,VLPA","ASL&122,ASL102"
+North,ASTR,201,Universe and the Origin of Life,5.0,"NW,NW-AB",
+North,BIOL&,100,Survey of Biology,5.0,"CCN,DESC,NW,NW-AB,NW-L",
+North,BIOL&,160,General Biology W/Lab,5.0,"CCN,NW,NW-AB,NW-L",
+North,BIOL&,211,Majors Cellular,5.0,"CCN,NW,NW-AB,NW-L",
+North,BIOL&,212,Majors Animal,5.0,"CCN,NW,NW-AB,NW-L",BIOL&211
+North,BIOL&,241,Human a & P 1,5.0,"CCN,NW,NW-AB,NW-L","BIOL&160,CHEM&121"
+North,BIOL&,242,Human a & P 2,5.0,"CCN,NW,NW-AB,NW-L",BIOL&241
+North,BIOL&,260,Microbiology,5.0,"CCN,NW,NW-AB,NW-L","BIOL&241,BIOL&242,P1,P2"
+North,BUS,105,Keyboarding,4.0,,
+North,BUS,106,Keyboarding/Skillbuilding,3.0,,"BUS105,RECOMMEND25"
+North,BUS,112,Multi-Cultural Issues in the American Workplace,5.0,,
+North,BUS,114,Introduction to Marketing,5.0,,
+North,BUS,115,Computational Skillbuilding,2.0,,
+North,BUS,116,Business Math/Spreadsheets,5.0,,
+North,BUS,118,Project Management Introduction and Overview,5.0,"DESC,eL","BUS169,BUS236,IT101"
+North,BUS,119,Leadership Management Skills,3.0,eL,"BUS169,BUS236,IT101"
+North,BUS,124,Excel for Business,5.0,eL,
+North,BUS,151,Introduction to Entrepreneurship,3.0,"N,ARL:4139",
+North,BUS,152,Entrepreneurship Product/Service Selection,5.0,"N,ARL:4142",
+North,BUS,153,Entrepreneurship II,5.0,"N,ARL:4140",
+North,BUS,156,Introduction to E-Business/Commerce,5.0,eL,"ENGLISH097,ENGLISH101"
+North,BUS,169,Using Computers in Business I,5.0,,
+North,BUS,170,Information Technology I,5.0,,
+North,BUS,210,Business and Economic Statistics,5.0,,
+North,BUS,215,Introduction to International Business,5.0,,
+North,BUS,236,Interpersonal Communications for the Workplace,5.0,HR,
+North,BUS,298,Special Topics: Business,5.0,,
+North,BUS&,101,Introduction to Business,5.0,"CCN,N",
+North,BUS&,201,Business Law,5.0,CCN,
+North,CCE,195,Art for Young Children,3.0,,
+North,CCE,261,Readings in Early Childhood Education,6.0,,
+North,CHEM,256,Biochemistry II,3.0,"NW,NW-AB",CHEM255
+North,CHEM&,110,Chemical Concepts W-Lab,5.0,"CCN,NW,NW-AB,NW-L",
+North,CHEM&,121,Intro to Chemistry,5.0,"CCN,NW,NW-AB,NW-L","MATH098,MATH098"
+North,CHEM&,131,Introduction to Organic Chemistry & Biochemistry,5.0,"CCN,NW,NW-AB,NW-L",CHEM&121
+North,CHEM&,139,General Chemistry Prep,5.0,"CCN,NW,NW-AB",MATH098
+North,CHEM&,161,General Chem W/Lab I,6.0,"CCN,WWW,NW,NW-AB,NW-L","CHEM&139,MATH098"
+North,CHEM&,162,General Chem W/Lab II,6.0,"CCN,NW,NW-AB,NW-L",CHEM&161
+North,CHEM&,163,General Chem W/Lab III,6.0,"CCN,WWW,NW,NW-AB,NW-L","CHEM&162,MATH098"
+North,CHEM&,241,Organic Chem I,4.0,"CCN,NW,NW-AB",CHEM&163
+North,CHEM&,242,Organic Chemistry II,4.0,"CCN,NW,NW-AB",CHEM&241
+North,CHEM&,251,Organic Chemistry Lab I,4.0,"CCN,NW,NW-AB,NW-L",CHEM&241
+North,CHIN&,121,Chinese I,5.0,"CCN,VLPA",
+North,CMST,205,Multicultural Communication,5.0,"N,COM,US,VLPA",ENGL&101
+North,CMST&,102,Introduction to Mass Media,5.0,"CCN,VLPA",ENGL&101
+North,CMST&,210,Interpersonal Communication,5.0,"CCN,COM,VLPA",ENGL&101
+North,CMST&,220,Public Speaking,5.0,"CCN,COM,VLPA,W",ENGL&101
+North,CSC,110,Introduction to Computer Programming,5.0,,MATH098
+North,CSC,111,Computers for Math and Science,5.0,eL,MATH098
+North,CSC,142,Computer Programming I,5.0,,"A3,CSC110,MATH&141"
+North,CSC,143,Computer Programming II,5.0,,"A3,CSC142"
+North,CWE,101,"Portfolio, Job Search and Interviewing",2.0,"DESC,W",
+North,CWE,110,Internship,3.0,DESC,
+North,CWE,494,International Business Internship Preparation,1.0,DESC,
+North,DRMA&,101,Introduction to the Theatre,5.0,"CCN,eL,US,VLPA,W",
+North,ECE,315,"Language, Literacy and Communication",5.0,N,
+North,ECE,420,Social and Emotional Foundations Early Learning,5.0,N,
+North,ECE,430,Linguistically Diverse Learners,5.0,N,
+North,ECE,450,Child Development and Assessment,5.0,N,
+North,ECED&,105,Introduction to Early Childhood Education,5.0,"CCN,N",
+North,ECED&,107,"Health, Safety, and Nutrition",5.0,"CCN,DESC,N",
+North,ECED&,120,Practicum: Relationships,2.0,"CCN,N",
+North,ECED&,132,Infants and Toddlers,3.0,"CCN,N",
+North,ECED&,134,Family Child Care,3.0,"CCN,N",
+North,ECED&,160,Curriculum Development,5.0,"CCN,N",
+North,ECED&,190,Observing and Assessment,3.0,"CCN,N",
+North,ECON,100,Survey of Economics,5.0,"eL,COM,ICS",
+North,ECON&,201,Micro Economics,5.0,"CCN,ICS",MATH098
+North,ECON&,202,Macro Economics,5.0,"CCN,ICS","ENGL&101,MATH098"
+North,EDT,101,Emergency Department Technician Fundamentals,4.0,,
+North,EDT,103,Emergency Deptartment Technician Lab Skills,4.0,,
+North,EDUC,200,Peer Tutoring,2.0,,
+North,EDUC&,136,School - Age Care,3.0,"CCN,N",
+North,EDUC&,150,Child Eamily and Community,3.0,"CCN,N",
+North,EEL,202,Industrial Motor Controls,5.0,N,
+North,EET,106,Introduction to Soldering,1.0,,
+North,EET,109,Mathematical Applications for Circuit Analysis,5.0,,
+North,EET,114,Applied Physics,5.0,,EET109
+North,EET,131,IT Essentials I - A+ Certification,5.0,,
+North,EET,132,IT Essentials - A+ Certification Advanced,5.0,,
+North,EET,137,Introduction to Robotics,5.0,eL,
+North,EET,160,Introduction to Electricity and Electronics,5.0,,
+North,EET,161,D.C. Principles of Electronics,5.0,N,
+North,EET,162,A.C. Principles of Electronics,5.0,,
+North,EET,165,Analog Circuits & Devices,5.0,N,
+North,EET,170,Digital Electronics & PLCs I,5.0,N,
+North,EET,202,Industrial Motor Control,5.0,N,
+North,EET,219,Metrology,3.0,N,
+North,EET,287,Biomedical Equipment II,5.0,N,
+North,EET,297,Biomedical Technician Externship,4.0,,
+North,ENGL,080,English Skills Shop,2.0,,
+North,ENGL,097,Integrated Reading and Writing I,10.0,,
+North,ENGL,098,Integrated Reading and Writing II,10.0,,
+North,ENGL,099,Supporting College Writing,5.0,ARL:1275,"ENGL097,ENGL099"
+North,ENGL,104,Advanced English Grammar,5.0,VLPA,ENGL&101
+North,ENGL,151,Creative Writing,5.0,"COM,VLPA,W",ENGL&101
+North,ENGL,152,Creative Writing,5.0,"COM,VLPA,W","ENGL&101,ENGL151"
+North,ENGL,153,Creative Writing,5.0,"COM,VLPA,W",
+North,ENGL,199,College Applications & Personal Statements,2.0,,
+North,ENGL,299,Independent Study,2.0,,
+North,ENGL&,101,English Composition I,5.0,"CCN,W","ENGL&101,ENGL097,ENGL099"
+North,ENGL&,102,Composition II,5.0,"IS,CS,CCN,W",ENGL&101
+North,ENGL&,235,Technical Writing,5.0,"CCN,DESC,eL,WWW,VLPA",ENGL&101
+North,ENGR,240,Introduction to Numerical Methods,5.0,,"CSC110,MATH&152"
+North,ENGR&,225,Mechanics of Materials,5.0,CCN,"ENGR&214,MATH&152"
+North,ENVS&,100,Survey of Environmental Science,5.0,"CCN,GS,ICS,NW",
+North,ENVS&,101,Intro to Environmental Science W/Lab,5.0,"CCN,GS,ICS,NW-L",ENGL&101
+North,ESL,010,ESL Level 1,10.0,,
+North,ESL,011,English as a Second Language-Level 1A,10.0,,
+North,ESL,012,English as a Second Language-Level 1B,10.0,,
+North,ESL,013,English as a Second Language-Level 1C,10.0,,
+North,ESL,015,Basic Literacy for ESL 1,5.0,,"ESL011,OR012"
+North,ESL,016,ESL Speaking and Listening 1,5.0,,LEVEL1
+North,ESL,020,ESL - Level 2,10.0,,"ESL010,ESL012"
+North,ESL,021,ESL Level 2A,10.0,,ESL013
+North,ESL,022,ESL Level 2B,10.0,,ESL021
+North,ESL,026,ESL Speaking and Listening 2,5.0,,LEVEL2
+North,ESL,027,Introduction to Computer Assisted Language Learning,5.0,,
+North,ESL,030,ESL - Level 3,10.0,N,"ESL020,ESL022"
+North,ESL,031,ESL Level 3A,10.0,,ESL022
+North,ESL,032,ESL Level 3B,10.0,,ESL031
+North,ESL,036,ESL Speaking and Listening 3,5.0,,LEVEL3
+North,ESL,037,Beginning Computer Assisted Language Learning,3.0,N,LEVEL2
+North,ESL,039,Vocational ESL 3,18.0,,
+North,ESL,040,ESL - Level 4,10.0,,"ESL030,ESL032"
+North,ESL,041,ESL Level 4A,10.0,,ESL032
+North,ESL,042,ESL Level 4B,10.0,,ESL041
+North,ESL,046,ESL Speaking and Listening 4,5.0,DESC,LEVEL4
+North,ESL,047,Intermediate Computer Literacy for ESL,5.0,,ESL037
+North,ESL,051,ESL Level 5A,10.0,,ESL042
+North,ESL,052,ESL Level 5B,10.0,,ESL051
+North,ESL,056,ESL Speaking and Listening 5,5.0,,LEVEL5
+North,ESL,057,Advanced Computer Assisted Language Learning,5.0,,ESL047
+North,ESL,059,Vocational ESL,5.0,,
+North,ESL,061,ESL Level 6A,10.0,,ESL052
+North,ESL,062,ESL Level 6B,10.0,,ESL061
+North,ESL,066,ESL Speaking and Listening 6,2.0,,LEVEL6
+North,ESL,069,Vocational ESL,2.0,N,
+North,ESL,078,Advanced English Pronunciation 2,2.0,N,ESL041
+North,ESL,083,Strategic Learning in a Content Area,3.0,N,
+North,FAM,181,STAR Parenting,5.0,eL,
+North,FAM,184,Understanding Children,5.0,eL,
+North,FAM,197,Parent Education Special Topics - See Item Number for Specific Course Information,2.0,"DESC,N",
+North,FRCH&,121,French I,5.0,"CCN,VLPA",
+North,FRCH&,122,French II,5.0,"CCN,VLPA",FRCH&121
+North,GED,051,Basic GED Preparation Math Level 5,5.0,N,
+North,GED,052,Basic GED Preparation Communication Level 5,2.0,N,
+North,GEOL,106,Dinosaurs,5.0,"eL,NW,NW-AB",
+North,GEOL,111,Geology Field Day,1.0,"DESC,N,NW,NW-AB,NW-L",
+North,GEOL&,101,Physical Geology,5.0,"CCN,eL,NW,NW-AB,NW-L",
+North,GEOL&,110,Environmental Geology,5.0,"CCN,NW,NW-AB,NW-L",
+North,GERM&,121,German I,5.0,"CCN,VLPA",
+North,GERM&,122,German II,5.0,"CCN,N,VLPA",GERM&121
+North,HDC,100,Career Planning and Personal Evaluation,2.0,,
+North,HEA,150,Health and Human Sexuality,5.0,"NW,NW-AB",
+North,HIN,121,Watch Technology II-Professional Knowledge,6.0,,
+North,HIN,122,Watch Technology II-The Watchmakers Lathe,6.0,,
+North,HIN,123,Watch Technology II-Practicum,10.0,,
+North,HIN,221,Watch Technology VI-Precision Timing 2,6.0,,"HIN211,HIN213"
+North,HIN,222,Watch Technology VI-Automatic Watches,6.0,,"HIN211,HIN213"
+North,HIN,223,Watch Technology VI-Practicum,10.0,,"HIN211,HIN213"
+North,HIST,150,Multicultural Experiences in U.S. History,5.0,"IS,CS,ICS,US",
+North,HIST&,146,US History I : To 1800,5.0,"CCN,ICS,US",
+North,HIST&,147,US History II: 1800-1900,5.0,"CCN,ICS,US",
+North,HIST&,148,US History III: 1900 to Present,5.0,"CCN,eL,ICS,US",
+North,HIST&,214,Pacific NW History,5.0,"CCN,ICS,US",ENGL&101
+North,HSC,045,Physical Education Portfolio,1.0,,
+North,HSC,047,Washington State History/Government Portfolio,5.0,,
+North,HSC,048,Occupational Education Portfolio,3.0,,
+North,HSC,049,Contemporary World Problems Portfolio,5.0,,
+North,HUM,110,Introduction to Film,5.0,"eL,VLPA",
+North,HUM,140,Transnational Cinema,5.0,"IS,CS,GS,VLPA",
+North,HUM,200,Reading the Media,5.0,"IS,CS,COM,US,VLPA",ENGL&101
+North,HVC,210,Cooling and Heating 1,5.0,,HVC101
+North,HVC,211,Essentials of HVAC,5.0,,HVC101
+North,HVC,212,Essentials of HVAC,5.0,,HVC211
+North,HVC,220,Green HVAC,3.0,,HVC101
+North,HVC,226,HVAC Electronics & Control Systems,5.0,,
+North,HVC,228,Energy Performance for the Field Technician,5.0,,
+North,IBN,302,International Marketing,5.0,,
+North,IBN,311,International Business Law,3.0,N,"BUS&201,BUS200"
+North,IBN,402,Management of Information Systems,5.0,,
+North,IBN,420,Global Business Strategy,5.0,,
+North,IEP,011,Grammar/Writing 1,10.0,ARL:8901,
+North,IEP,012,Reading/Vocabulary 1,5.0,ARL:8902,
+North,IEP,013,Listen/Speak/Pronunciation 1,5.0,ARL:8903,
+North,IEP,021,Grammar/Writing 2,10.0,ARL:8901,
+North,IEP,022,Reading/Vocabulary 2,5.0,ARL:8902,
+North,IEP,023,Listen/Speak/Pronunciation 2,5.0,ARL:8903,
+North,IEP,031,Grammar/Writing 3,10.0,ARL:8901,
+North,IEP,032,Reading/Vocabulary 3,5.0,ARL:8902,
+North,IEP,033,Listen/Speak/Pronunciation 3,5.0,ARL:8903,
+North,IEP,041,Grammar/Writing 4,10.0,ARL:8901,
+North,IEP,042,Reading/Vocabulary 4,5.0,ARL:8902,
+North,IEP,043,Listen/Speak/Pronunciation 4,5.0,ARL:8903,
+North,IEP,051,Grammar/Writing 5,10.0,ARL:8901,
+North,IEP,052,Reading/Vocabulary 5,5.0,ARL:8902,
+North,IEP,053,Listen/Speak/Pronunciation 5,5.0,ARL:8903,
+North,IEP,061,Writing for College,10.0,ARL:8901,
+North,IEP,062,College Reading,5.0,ARL:8902,
+North,IEP,063,Academic Lectures,5.0,ARL:8903,
+North,IT,102,Introduction to Programming,5.0,DESC,
+North,IT,109,Itil Foundation Certification Preparation,1.0,,EET131
+North,IT,111,Internet and Web Authoring,5.0,eL,
+North,IT,120,Network Essentials - Comptia Network +,5.0,"DESC,eL",EET131
+North,IT,122,Network Operating System 1,5.0,eL,
+North,IT,124,Network Operating System 2,5.0,"DESC,eL",IT122
+North,IT,125,Using Structured Query Language & SQL Server,5.0,N,
+North,IT,126,Network Operating System 3,5.0,"DESC,eL",
+North,IT,140,Unix Shell Scripts With Perl,5.0,,
+North,IT,142,Network Management - CISCO I,5.0,N,"EET131,IT122"
+North,IT,144,Network Management - CISCO II,5.0,N,
+North,IT,150,IT Systems Security +,5.0,eL,
+North,IT,220,Desktop Management & Virtualization,5.0,N,
+North,IT,298,Special Projects for Lan,5.0,,
+North,JAPN&,121,Japanese I,5.0,"CCN,VLPA",
+North,JAPN&,122,Japanese II,5.0,"CCN,VLPA","JAPN&121,JPN101"
+North,MATH,080,Preparatory Mathematics,5.0,,
+North,MATH,081,Basic Math Skills,5.0,,
+North,MATH,084,Algebra I,5.0,,MATH081
+North,MATH,085,Algebra II,5.0,,
+North,MATH,089,Math Independent Study,1.0,,
+North,MATH,090,Mathematical Modules,2.0,eL,
+North,MATH,097,Elementary Algebra,5.0,,
+North,MATH,098,Intermediate Algebra,5.0,,
+North,MATH,116,"Appl. Math to Mgt., Life & Social Sciences",5.0,QSR,
+North,MATH,220,Linear Algebra,5.0,QSR,"MATH&153,MATH&163"
+North,MATH,224,Vector Calculus,5.0,"N,QSR",
+North,MATH,238,Differential Equations,5.0,"DESC,WWW,QSR",
+North,MATH&,107,Math in Society,5.0,"CCN,QSR",
+North,MATH&,141,Precalculus I,5.0,"CCN,QSR",MATH098
+North,MATH&,142,Precalculus II,5.0,"CCN,QSR",
+North,MATH&,146,Introduction to Statistics,5.0,"CCN,QSR",MATH098
+North,MATH&,148,Business Calculus,5.0,"CCN,QSR",
+North,MATH&,151,Calculus I,5.0,"CCN,QSR",
+North,MATH&,152,Calculus II,5.0,"CCN,QSR",MATH&151
+North,MATH&,163,Calculus 3,5.0,"CCN,QSR",
+North,MUSC,110,Introduction to World Music,5.0,"GS,VLPA",
+North,MUSC,113,Music in the United States,5.0,"eL,US,VLPA",
+North,MUSC,125,Fundamentals of Music,5.0,VLPA,
+North,MUSC,130,Individual Instruction: Series,2.0,"IND,VLPA,VLPAS",
+North,MUSC,134,Individual Instruction: Woodwinds,2.0,"IND,VLPA",
+North,MUSC,135,Individual Instruction: Percussion,2.0,"IND,VLPA",
+North,MUSC,138,Individual Instruction: Guitar,2.0,"IND,VLPA",
+North,MUSC,139,Individual Instruction: Harp,2.0,"IND,VLPA",
+North,MUSC,140,College Choir,5.0,"VLPA,VLPAS",
+North,MUSC,154,Symphonic Band,2.0,N,
+North,MUSC,171,Individual Instruction - Piano,2.0,"IND,VLPA,VLPAS",
+North,MUSC,172,Individual Instruction: Strings,2.0,"IND,VLPA,VLPAS",
+North,MUSC,173,Individual Instruction: Brass,2.0,"IND,VLPA,VLPAS",
+North,MUSC,204,History of Jazz,5.0,"N,US,VLPA",
+North,NANO,220,Micro Nanofabrication,5.0,,NANO101
+North,NUR,105,CPR and First Aid for Healthcare Providers,2.0,,
+North,NUR,107,Nursing Assistant - Theory and Concepts,8.0,,
+North,NUR,109,Nursing Assistant - Lab and Clinical Experience,4.0,,
+North,NUR,118,Clinical Nursing Skills I,2.0,,
+North,NUR,127,Medical/Surgical Nursing - Child/Adult I,6.5,,
+North,NUR,131,Clinical Nursing Practice I,3.5,,
+North,NUR,155,Special Topics - Adult Family Home,5.0,,
+North,NUR,223,Advanced Nursing Skills,2.0,,
+North,NUR,225,Family Nursing,6.0,,
+North,NUR,227,Complex Medical/Surgical-Psychiatric Nursing,7.0,,
+North,NUR,228,Complex Nursing Med/Surg-Psych Clinical Practice,5.0,,
+North,NUR,231,Family Nursing Clinical Practice,4.0,,
+North,NUTR&,101,Nutrition,5.0,"CCN,NW",ENGL&101
+North,OCEA&,100,Introduction to Oceanography,5.0,"CCN,eL",
+North,PEC,104,Beginning Martial Arts,2.0,,
+North,PEC,105,Intermediate Martial Arts,2.0,,
+North,PEC,106,Advanced Martial Arts,2.0,,
+North,PEC,131,Beginning Weight Training,2.0,,
+North,PEC,132,Intermediate Weight Training,2.0,,
+North,PEC,136,Yoga,2.0,,
+North,PEC,139,Yoga Pilates,2.0,DESC,
+North,PEC,150,Beginning Physical Fitness,2.0,,
+North,PEC,151,Intermediate Physical Fitness,2.0,,
+North,PEC,155,First Aid and Personal Safety,3.0,,
+North,PEC,165,Body Conditioning,2.0,DESC,
+North,PEC,170,Intro to Jazz Dance,2.0,,
+North,PEC,179,Dance Fusion,2.0,,
+North,PEC,299,Independent Fitness,2.0,,
+North,PHA,130,Over-The-Counter Drugs,2.0,,
+North,PHA,140,Sterile Products and Aseptic Technique I,3.0,,
+North,PHA,145,Pharmacy Ethics,1.0,,
+North,PHA,146,Communications in Pharmacy Practice,2.0,,
+North,PHA,150,Pharmacology I,3.0,,
+North,PHA,160,Pharmacy Technology I,3.0,,
+North,PHA,190,Pharmacy Technician Externship,13.0,,
+North,PHA,191,Job Skills & National Exam Prep,1.0,,
+North,PHIL,110,Introduction to Social Ethics,5.0,"DESC,eL,WWW,ICS",
+North,PHIL,220,Environmental & Human Rights,5.0,"IS,CS,ICS",
+North,PHIL&,101,Intro to Philosophy,5.0,"CCN,DESC,WWW,ICS",
+North,PHIL&,120,Symbolic Logic,5.0,"CCN,DESC,eL,WWW,NW,QSR",
+North,PHYS&,114,General Physics I With Lab,5.0,"CCN,NW,NW-AB,NW-L",MATH098
+North,PHYS&,115,General Physics II With Lab,5.0,"CCN,DESC,N,WWW,NW,NW-AB,NW-L",PHYS&114
+North,PHYS&,116,General Physics III With Lab,5.0,"CCN,NW,NW-AB,NW-L",
+North,PHYS&,221,Engineering Physics I,5.0,"CCN,NW,NW-AB,NW-L",MATH&151
+North,PHYS&,222,Engineering Physics II,5.0,"CCN,NW,NW-AB,NW-L","MATH&152,PHYS&221"
+North,PHYS&,223,Engineering Physics III,5.0,"CCN,NW,NW-AB,NW-L","MATH&152,PHYS&222"
+North,POLS&,101,Intro to Political Science,5.0,"CCN,eL,ICS",
+North,POLS&,202,American Government,5.0,"CCN,ICS",
+North,POLS&,203,International Relations,5.0,"CCN,N,GS,ICS",
+North,PSYC,209,Fundamentals of Psychological Research,5.0,ICS,PSYC&100
+North,PSYC,210,Personality & Individual Differences,5.0,"N,ICS",
+North,PSYC,222,Survey of Physiological Psychology,5.0,NW,"BIOL&160,ENGL&101,PSYC&100"
+North,PSYC,230,Human Sexuality,5.0,"eL,ICS",
+North,PSYC&,100,General Psychology,5.0,"CCN,ICS",
+North,PSYC&,200,Lifespan Psychology,5.0,"CCN,ICS,US",PSYC&100
+North,RES,100,Real Estate Fundamentals,5.0,eL,
+North,RES,106,Real Estate Fraud,1.0,,
+North,RES,120,RE Principles of Maintenance & Repair,1.5,N,
+North,RES,125,Application of Real Estate Math,2.0,N,
+North,RES,130,Green Real Estate,3.0,eL,
+North,RES,140,Real Estate Sales & Practice,3.0,eL,
+North,RES,150,Residential Sales & Leasing Documentation,1.5,,"OR210,OR6,RES100"
+North,RES,170,Real Estate Law,3.0,N,
+North,RES,177,Real Estate Taxes,1.5,N,
+North,RES,180,Basic Appraisal Principles,3.0,eL,
+North,RES,183,Basic Appraisal Procedures,3.0,N,
+North,RES,203,Property Management-Commercial,3.0,N,
+North,RES,210,Residential Property Investments,3.0,,
+North,RES,217,Real Estate Development & Sustainability,3.0,N,
+North,RES,260,Real Estate Finance-Commercial,2.0,N,"RES100,RES110"
+North,RES,298,Special Projects/Internships in Real Estate,6.0,,
+North,SCI,113,Marsh Ecology,1.0,"DESC,N,NW,NW-AB,NW-L",
+North,SCI,122,Zoo Science Field Trip,1.0,DESC,
+North,SOC,230,Human Sexuality,5.0,"eL,ICS",
+North,SOC&,101,Introduction to Sociology,5.0,"CCN,HR,ICS",
+North,SPAN,299,Independent Study in Spanish,5.0,,
+North,SPAN&,121,Spanish I,5.0,"CCN,VLPA",
+North,SPAN&,122,Spanish II,5.0,"CCN,VLPA",SPAN&121
+North,SSC,101,Intro to Information Resources for the Social Sciences,3.0,"eL,ICS",
+North,TDR,101,Intermediate Bim for Design & Construction,5.0,N,
+North,TDR,109,Architectural Engineering Drafting Lab,1.0,,
+North,TDR,112,Intermediate CAD Drafting/Construction & Design,5.0,N,
+North,TDR,134,Systems in Buildings,5.0,N,
+North,TDR,161,Applied Mechanics II,5.0,,TDR160
+North,TDR,200,Introduction to Solidworks,5.0,,
+North,TDR,202,Intermediate Catia,5.0,N,TDR201
+North,TDR,297,Special Topics in Construction & Design Drafting With CAD,5.0,,
+North,UGR,294,Independent Research/Sci,3.0,,
+South,ABE,060,Ase - Level 6,15.0,,
+South,ABE,070,Eduinterview for Abe/Ged,3.0,,
+South,ABR,111,Intro to Auto Collision,4.0,,
+South,ABR,112,Safety/Environ Practices,3.0,,
+South,ABR,113,Welding and Cutting,8.0,,
+South,ABR,121,Panel Replace/Alignment,4.0,,
+South,ABR,122,Wrking With Trim/Hardwre,3.0,,
+South,ABR,123,Metal Straightening,4.0,,
+South,ABR,124,Body Fillers,4.0,,
+South,ABR,131,Understand Auto Finishes,2.0,,
+South,ABR,132,Prep Surface for Refinsh,6.0,,
+South,ABR,133,Prep Equip/Paint/Materil,5.0,,
+South,ABR,134,Detailing,1.0,,
+South,ABR,171,Straighting Strucrl Prts,7.0,,
+South,ABR,172,Full/Partial Panel Replc,7.0,,
+South,ABR,173,Restore Corrosion Protec,2.0,,
+South,ABR,181,Steering & Suspension,6.0,,
+South,ABR,182,Electricl/Electnc Systms,7.0,,
+South,ABR,183,Mechanical Systems,3.0,,
+South,ABR,191,Applying the Finish,4.0,,
+South,ABR,192,Blending Color,3.0,,
+South,ABR,193,Solving Paint App Probs,3.0,,
+South,ABR,194,Finish Defects,3.0,,
+South,ABR,197,Industry Internship Itec,5.0,,
+South,ABR,199,Auto Body/Rebuild/Refins,8.0,,
+South,ABR,299,Special Topics,12.0,,
+South,ACCT,110,Intro to Acctg/Bookg I,5.0,HY,
+South,ACCT,120,Intro to Acctg/Bookg Ii,5.0,eL,
+South,ACCT,197,Wrk Exp: Accounting,5.0,,
+South,ACCT,214,Accounting Systems,5.0,HY,"ACCT&201,ACCT&202,ACCT110"
+South,ACCT,257,Business Tax Accounting,5.0,HY,"ACCT&202,ACCT120"
+South,ACCT&,201,Prin of Accounting I,5.0,CCN,
+South,ACCT&,202,Prin of Accounting Ii,5.0,CCN,
+South,ACCT&,203,Prin of Accounting Iii,5.0,"CCN,HY",ACCT&202
+South,ACM,111,Comp Fab & Tooling,4.0,,
+South,ACM,112,Comp Insp & Repair,2.0,,
+South,ACM,114,Comp Lab B,9.0,,
+South,ACM,199,Capstone B - Comp,2.0,,
+South,AHE,124,Software Apps for Health,4.0,HY,
+South,AHE,130,Medical Insurance I,5.0,HY,
+South,AHE,131,Med Coding Ins Medisoft,5.0,HY,
+South,AHE,135,Home Care Aide,15.0,,
+South,AHE,143,Med Term & a/P I,4.0,HY,
+South,AHE,144,Med Term/Anato & Phys Ii,4.0,HY,
+South,AHE,146,Icd Coding,5.0,HY,AHE130
+South,AHE,147,Cpt Coding,5.0,HY,AHE130
+South,AHE,168,Medical Terminology,5.0,eL,
+South,AHE,171,Excelfor Healthcareoccup,4.0,HY,
+South,AHE,172,Processing Med Documents,4.0,HY,
+South,AHE,173,Medical Records Mgmt,3.0,HY,
+South,AHE,197,Wrk Exp/Med Internship,2.0,HY,
+South,AHE,241,Pharm Ii for Prof Coders,2.0,HY,
+South,AHE,298,Special Topic,1.0,HY,
+South,AHE,298,Specialtopics-Soft Skils,1.0,HY,
+South,AME,201,Diversity & Social Justi,5.0,"ICS,US",
+South,AMT,111,Basic SCI.FOR Aviation,17.0,,
+South,AMT,112,Basic Elec. For Aviation,17.0,,
+South,AMT,113,Airframe Structure,17.0,,
+South,AMT,133,Powerplant Theory & Main,17.0,,
+South,AMT,197,Aviation Internship,1.0,,
+South,AMT,214,Airframe Systems,17.0,,
+South,AMT,215,Advanced Airframe,17.0,,
+South,AMT,234,Powerplant Sys & Compont,17.0,,
+South,AMT,235,Advanced Powerplant,17.0,,
+South,AMT,295,A&p Master Class,16.0,,
+South,AMT,296,Amt Prof Port,2.0,,
+South,ANTH&,100,Survey of Anthropology,5.0,"CCN,ICS,GS",
+South,ANTH&,206,Cultural Anthropology,5.0,"CCN,ICS,GS",ENGL&101
+South,ARAB,102,Arab Ii,5.0,VLPA,ARABIC101
+South,ARAB,103,Arab Iii,5.0,VLPA,ARAB102
+South,ART,101,Design,5.0,VLPA Studio,
+South,ART,102,Design,5.0,VLPA Studio,ART101
+South,ART,103,Design,5.0,VLPA Studio,ART102
+South,ART,111,Drawing,5.0,VLPA Studio,
+South,ART,112,Drawing,5.0,VLPA Studio,
+South,ART,113,Drawing,5.0,VLPA Studio,ART112
+South,ART,170,Photography as an Art,5.0,"HY,VLPA,GS",
+South,ART,201,Painting,5.0,VLPA Studio,
+South,ART,202,Painting,5.0,VLPA Studio,ART201
+South,ART,203,Painting,5.0,VLPA Studio,
+South,ART,205,Water Color Painting,5.0,VLPA Studio,
+South,ART,206,Water Color Painting,5.0,VLPA Studio,ART205
+South,ART,207,Water Color Painting,5.0,VLPA Studio,ART206
+South,ART,210,Digital and Graphic Art,5.0,VLPA Studio,
+South,ART,211,Sculpture,5.0,VLPA Studio,
+South,ART,212,Sculpture,5.0,VLPA Studio,ART211
+South,ART,213,Sculpture,5.0,VLPA Studio,ART212
+South,ART,214,Digital Art - Inter.,5.0,VLPA Studio,ART210
+South,ART,215,Digital Art - Adv.,5.0,VLPA Studio,ART214
+South,ART,221,Ceramics,5.0,VLPA Studio,
+South,ART,222,Pottery/Ceramics,5.0,VLPA Studio,
+South,ART,223,Pottery/Ceramics,5.0,VLPA Studio,ART222
+South,ART,299,Special Problems in Art,5.0,,
+South,ART&,100,Art Appreciation,5.0,"CCN,VLPA,IS",
+South,ASTR,201,Universe,5.0,"eL,NW",
+South,ASTR&,100,Survey of Astronomy,5.0,"CCN,HY,NW",
+South,AUT,100,Intro to Electricity,6.0,,
+South,AUT,102,Adv Electrical Systems,4.0,,
+South,AUT,104,Automotive Electronics,3.0,,
+South,AUT,106,Basic Power Accessories,3.0,,
+South,AUT,112,Manual Transaxles Clutch,3.0,,
+South,AUT,114,"Man Transmissions, Trans",3.0,,
+South,AUT,116,Air Conditioning & Heat,6.0,,
+South,AUT,118,"Auto Trans, Diagno & Svc",4.0,,
+South,AUT,120,Adv Auto Trans Service,6.0,,
+South,AUT,122,Steering & Suspension,4.0,,
+South,AUT,124,Tires & Wheel Alignment,4.0,,
+South,AUT,126,Basic Brake Systems,3.0,,
+South,AUT,127,Advanced Brake Systems,4.0,,
+South,AUT,128,Auto Engine Diag Remove,4.0,,
+South,AUT,130,Automotive Engine Rebuil,8.0,,
+South,AUT,134,Intro to Drivability,3.0,,
+South,AUT,138,Adv Drivability Fuel Sys,6.0,,
+South,AUT,140,Engine Computers,4.0,,
+South,AUT,142,Emission Cntrl/Diagnosti,6.0,,
+South,AUT,197,Industry Internship,5.0,,
+South,AUT,299,Spec Topics:automotive,18.0,,
+South,BIOL,128,Survey of Human Anat&phy,5.0,"eL,NWLab","ENGL&101,MATH084"
+South,BIOL,150,Bio and Evo Infectious,5.0,"eL,ICS,NW,GS",ENGL096
+South,BIOL&,100,Survey of Biology,5.0,"CCN,eL,NWLab",
+South,BIOL&,160,General Biology W/Lab,5.0,"CCN,NWLab",
+South,BIOL&,211,Majors Cellular,5.0,"CCN,NWLab",
+South,BIOL&,212,Majors Animal,5.0,"CCN,NWLab",BIOL&211
+South,BIOL&,213,Majors Plant,5.0,"CCN,NWLab",BIOL&212
+South,BIOL&,241,Human a & P 1,5.0,"CCN,NWLab","BIOL&160,CHEM&121"
+South,BIOL&,242,Human a & P 2,5.0,"CCN,NWLab",BIOL&241
+South,BIOL&,260,Microbiology,5.0,"CCN,NWLab",
+South,BUS,104,Keyboarding,3.0,HY,
+South,BUS,106,Keyboarding/Skillbuild,3.0,HY,
+South,BUS,115,Computational Skillbuild,2.0,HY,
+South,BUS,116,Business Math/Spreadshet,5.0,HY,
+South,BUS,140,Customer Relations,5.0,HY,
+South,BUS,169,Using Computers in Bus I,5.0,eL,
+South,BUS,170,Information Tech I,5.0,eL,
+South,BUS,177,Spreadsheets,5.0,HY,
+South,BUS,179,Word Processing,5.0,HY,
+South,BUS,197,Work Exper/Business Occ.,12.0,,
+South,BUS,210,Bus & Econ Statistic,5.0,HY,"MATH098,MATH116"
+South,BUS,210,Bus & Economic Statistic,5.0,,"MATH098,MATH116"
+South,BUS,216,"Commu Bus Tec, Prof,dev",5.0,HY,
+South,BUS,216,Professional Development,3.0,,
+South,BUS,230,Business Communications,5.0,HY,"BUS131,ENGLISH101"
+South,BUS&,101,Intro to Business,5.0,"CCN,HY",
+South,BUS&,101,Introduction to Business,5.0,"CCN,HY",
+South,BUS&,201,Business Law,5.0,CCN,ENGL&101
+South,CAB,101,Career Bridge,6.0,,
+South,CHEM&,121,Intro to Chemistry,5.0,"CCN,NWLab",
+South,CHEM&,131,Intro to Organic/Biochem,5.0,"CCN,NWLab",CHEM&121
+South,CHEM&,139,General Chemistry Prep,5.0,"CCN,NW",MATH098
+South,CHEM&,161,General Chem W/Lab I,6.0,"CCN,NWLab","CHEM&139,MATH&141"
+South,CHEM&,162,General Chem W/Lab Ii,6.0,"CCN,NWLab",CHEM&161
+South,CHEM&,163,General Chem W/Lab Iii,6.0,"CCN,NWLab",CHEM&162
+South,CHEM&,262,Organic Chem W/ Lab Ii,6.0,"CCN,NW",CHEM&261
+South,CHEM&,263,Organic Chem W/ Lab Iii,6.0,"CCN,NW",CHEM&262
+South,CMST,205,Multicultural Comm,5.0,"VLPA,COM,US",ENGL&101
+South,CMST,245,Media Comm and Criticism,5.0,"eL,VLPA,COM",ENGL&101
+South,CMST,275,Online Communication,5.0,"eL,VLPA,COM","ENGL&101,ENGL&102"
+South,CMST&,101,Introduction to Comm,5.0,"CCN,VLPA,COM",ENGL&101
+South,CMST&,220,Public Speaking,5.0,"CCN,VLPA,COM",ENGL&101
+South,CMST&,230,Small Group Communicatn,5.0,"CCN,VLPA,COM",ENGL&101
+South,CSC,100,Beginning Computers,5.0,,
+South,CSC,110,Intro to Cmptr Progming,5.0,"HY,NW",MATH098
+South,CSC,142,Computer Programming I,5.0,"HY,NW",CSC110
+South,CSC,143,Computer Programming Ii,5.0,"HY,NW",CSC142
+South,CSS,003,Hobbies,0.0,,
+South,CSS,009,Career Exploration,0.0,eL,
+South,CSS,020,Business Administration,0.0,,
+South,CTN,101,Intro to Computing Tech,5.0,,CSC100
+South,CTN,120,Databases I,5.0,,CSC100
+South,CTN,142,Operating Systems Ii,5.0,,CTN101
+South,CTN,143,Operating Systems Iii,5.0,,CTN142
+South,CTN,160,Web Production I,5.0,eL,CSC100
+South,CTN,170,Pc Hardware I,5.0,,
+South,CTN,197,Computing Internship,15.0,,
+South,CTN,270,Local Area Networks I,5.0,,CSC100
+South,CTN,274,Local Area Networks Iii,5.0,,CTN270
+South,CTN,276,Virtualization & Cloud 1,5.0,,"CTN&282,CTN142"
+South,CTN,277,Network Security 1,5.0,,CTN270
+South,CTN,281,Security+ Certification,5.0,,CTN277
+South,CTN,283,Cisco Ii,5.0,,"CISCO1,CTN282"
+South,CTN,284,Cisco Iii,5.0,,"CTN283,LEAST2"
+South,CTN,285,Cisco Iv,3.0,,"CISCO3,CTN284"
+South,CTN,286,Virtualization & Cloud 2,5.0,,CTN276
+South,CTN,287,Cloud Computing,5.0,,CTN276
+South,CTN,298,Spec Topics-Cmpting Tech,5.0,,CTN270
+South,CTN,298,Special Topic in Bus,5.0,,CTN270
+South,EAR,171,Nw Linemen 1st Yr Portla,3.0,,
+South,ECON&,201,Micro Economics,5.0,"CCN,HY,ICS",MATH098
+South,ECON&,202,Macro Economics,5.0,"CCN,HY,ICS,GS",MATH098
+South,ENGL,097,Engl 097: Irw I,10.0,,
+South,ENGL,098,Reading and Writing Ii,10.0,,
+South,ENGL,099,Support for Engl& 101,5.0,LC,
+South,ENGL,103,Transitional English,5.0,HY,
+South,ENGL,105,Applied Composition,3.0,HY,
+South,ENGL,106,Technical Writing,3.0,HY,ENG105
+South,ENGL,107,Applied Composition,5.0,eL,ENGL097
+South,ENGL,152,Creative Writing,5.0,"VLPA,COM",
+South,ENGL,153,Creative Writing,5.0,"VLPA,COM",ENGL&101
+South,ENGL,201,Advanced Composition,5.0,VLPA,ENGL&101
+South,ENGL,232,Young Adult Literature,5.0,"eL,VLPA,US",
+South,ENGL,252,Novels of Western Lit,5.0,VLPA,ENGL&101
+South,ENGL,260,Asian American Lit,5.0,"VLPA,US,IS",ENGL&101
+South,ENGL&,101,English Composition I,5.0,CCN,
+South,ENGL&,102,Composition Ii,5.0,CCN,
+South,ENGL&,235,Technical Writing,5.0,"CCN,eL,VLPA",ENGL&101
+South,ENGL&,246,American Literature Iii,5.0,"CCN,VLPA,US",
+South,ENGR,298,Special Topics,5.0,,
+South,ENGR,299,Independent Study,5.0,,
+South,ENGR&,111,Engineering Graphics 1,4.0,"CCN,NW",MATH&141
+South,ENGR&,112,Engineering Graphics 2,4.0,CCN,ENGR&111
+South,ENGR&,204,Electrical Circuits,5.0,CCN,"MATH&152,PHYS&222"
+South,ENGR&,214,Statics,5.0,"CCN,NW","EGR140,MATH&152,PHYS&221"
+South,ENGR&,215,Dynamics,5.0,"CCN,NW",ENGR&214
+South,ENGR&,225,Mechanics of Materials,5.0,"CCN,NW","ENGR&214,MATH&152"
+South,ENVS,150,Environmntl Issues/Probl,5.0,"eL,ICS,NW,GS,IS",
+South,ENVS,160,Prin Env Sustainability,5.0,"ICS,NW,GS,IS",
+South,ENVS,170,Energy&resources-Now&fut,5.0,"HY,ICS,NW",
+South,ESL,060,Esl 6 Academic Adv,15.0,LC,
+South,ESL,069,Service Learning 6 Adv,5.0,LC,
+South,ESL,086,Survey of Eng Grammar 2,5.0,,
+South,ESL,097,Collprep/Nonnativ-Write2,5.0,,
+South,FAM,047,6-12 Months-Movers,3.0,,
+South,FAM,048,"0-6 Months, Infants",3.0,,
+South,FAM,049,"0-6 Months, Infants",3.0,,
+South,FAM,053,12-24 Mons Oneday Todlrs,3.0,,
+South,FAM,053,"12-24 Mons, Lincoln Park",3.0,,
+South,FAM,054,12-24 Mons Just Walkers,3.0,,
+South,FAM,055,12-24 Mons Just Walkers,3.0,,
+South,FAM,063,"24-36 Months, Alki 2",3.0,,
+South,FAM,065,"24-36 Months, Alki 2",3.0,,
+South,FAM,073,"36-48 Months, Alki 3",3.0,,
+South,FAM,075,"36-48 Months, Alki 3",3.0,,
+South,FAM,083,48-60 Mons Arbor Heights,3.0,,
+South,FAM,084,Parent Ed: 48-60 Months,3.0,,
+South,FAM,085,48-60 Mons Arbor Heights,3.0,,
+South,FAM,095,Multi-Age Alki,3.0,,
+South,FSD,100,Sanitation,3.0,,
+South,FSD,101,Orientation/Food Prodctn,1.0,,
+South,FSD,160,Theory 1 - Culinary Fund,5.0,,
+South,FSD,165,Culinary 1,15.0,,
+South,FSD,170,Theory 2 - Adv Cul Fund,5.0,,
+South,FSD,175,Culinary 2,15.0,,
+South,FSD,180,Theory 3 - Garde Manger,5.0,,
+South,FSD,185,Culinary 3,15.0,,
+South,FSD,190,Theory 4 - Rest Cost Con,5.0,,FSD180
+South,FSD,195,Culinary 4,15.0,,
+South,FSD,197,Internship Culinary Arts,5.0,,
+South,FSD,200,Theory 5 - Mngmt Techniq,5.0,,
+South,FSD,205,Restaurant Production,15.0,,
+South,FSD,215,Banquets and Catering,15.0,,
+South,FSD,299,Special Topics Cul Arts,15.0,,
+South,GEOL&,101,Intro Physical Geology,5.0,"CCN,HY,NWLab",
+South,GEOL&,101,Physical Geology,5.0,"CCN,NWLab",
+South,GEOL&,110,Environmental Geology,5.0,"CCN,eL,NWLab",
+South,HDM,100,Prev Maint and Inspect,8.0,,
+South,HDM,108,Hdd Welding,8.0,,
+South,HDM,110,Intro to Electrical,8.0,,
+South,HDM,115,Adv Electrical,8.0,,
+South,HDM,140,"Heating, Vent, and Ac",8.0,,
+South,HDM,145,Gasoline Engines,8.0,,
+South,HDM,150,"Diag, Remove, Replace",8.0,,
+South,HDM,155,Diesel Engine Rebuild,8.0,,
+South,HDM,171,Lift Truck Operator,2.0,,
+South,HDM,197,Internship Heavy Duty D,7.0,,
+South,HEA,125,Health and Wellness,5.0,NW,
+South,HEA,150,Health & Human Sexuality,5.0,"eL,NW",
+South,HEA,160,Human Wellness & Fitness,5.0,NW,
+South,HEA,225,Global Health,5.0,"eL,NW","ENGL&101,INTO098,MATH092"
+South,HIST,140,Women in American Histor,5.0,"eL,ICS,US",
+South,HIST,211,Hist of the Middle East,5.0,"ICS,GS",
+South,HIST&,126,World Civilizations I,5.0,"CCN,eL,ICS,GS,IS",
+South,HIST&,127,World Civilizations Ii,5.0,"CCN,eL,ICS,GS",
+South,HIST&,128,World Civilizations Iii,5.0,"CCN,eL,ICS,GS",
+South,HIST&,146,Us History I: Until 1791,5.0,"CCN,ICS,IS",
+South,HIST&,147,Us History Ii,5.0,"CCN,ICS,US,IS",
+South,HIST&,148,Us History Iii,5.0,"CCN,ICS,US,IS",
+South,HIST&,214,Pacific Nw History,5.0,"CCN,HY,ICS,US,IS",
+South,HMG,302,Hospitality Management,5.0,,
+South,HMG,303,Hospitality Marketing,5.0,,
+South,HMG,312,Legal Issues/Hospitality,3.0,,
+South,HMG,314,Diversity/Culture Travel,5.0,,
+South,HMG,401,Cost Controls,5.0,,
+South,HMG,402,Hospitality Accounting,5.0,,
+South,HMG,420,Ethical Leadership,3.0,,
+South,HMG,490,Internship Lecture,3.0,,
+South,HMG,491,Hospitality Mgmt Capstne,5.0,,
+South,HMG,499,Ind Study Hospitality,10.0,HY,
+South,HOS,203,Nutrition,3.0,,
+South,HOS,299,Competition Team Class,3.0,,
+South,HUM,110,Intro to American Film,5.0,"eL,VLPA",
+South,HUM,130,World Cinema,5.0,"eL,VLPA,GS",ENGL&101
+South,HUM,210,Intro to Lgbtq Studies,5.0,"eL,VLPA,US,IS",ENG101
+South,ICT,103,Computer Applications I,2.0,HY,
+South,IEL,030,Reading/Grammar,10.0,LC,
+South,IEL,035,Speaking/Listening,10.0,LC,
+South,IEL,040,Reading/Grammar I,10.0,LC,
+South,IEL,055,Speaking/Listening Ii,10.0,LC,
+South,IEL,065,Speaking/Listening Iii,10.0,LC,
+South,IEL,070,Iep Reading Iv,5.0,LC,
+South,IEL,071,Iep Writing Iv,10.0,LC,
+South,IEL,075,Pronunciation,3.0,LC,
+South,IEL,081,Iep Writing V,10.0,LC,
+South,IFS,100,Industrialfirstaid&safty,2.0,,
+South,IFS,105,First Aid/Industrial,1.0,,
+South,IFS,105,Ind 1st Aid Cpr-Aed Bloo,1.0,,
+South,INFO,102,Info in Action Research,1.0,eL,ENGL&101
+South,INFO,104,Info in Action Research,1.0,eL,ENGL&101
+South,INFO,106,Info in Action Web Resch,1.0,eL,ENGL&101
+South,INT,101,Manufacturing Basics I,3.0,,
+South,INT,108,Intro Blueprint Reading,3.0,,
+South,INT,109,Flagging and Traffic,1.0,,
+South,INT,112,Manuf Tools and Trades,5.0,,
+South,INT,115,Intro to Lean Mfg,3.0,,
+South,INT,126,Mechaready,12.0,,
+South,INT,160,Osha 10,3.0,,
+South,INT,163,Hazcom,1.0,,
+South,INT,163,Hazmat/Communication,1.0,,
+South,INT,165,Osha 30 Gen Safety,3.0,,
+South,INT,180,Intro to Composites,3.0,,
+South,ISD,200,ORIENT.TO Col Success,2.0,LC,
+South,JAPN&,122,Japanese Ii,5.0,"CCN,VLPA",JAPN&121
+South,LHO,111,Greenhouse Operations,3.0,,
+South,LHO,112,Nursery Operations,3.0,,
+South,LHO,116,Winter Plant Id,3.0,,
+South,LHO,117,Spring Plant Id,3.0,,
+South,LHO,119,Native Plants for Nw Lnd,3.0,,
+South,LHO,120,Perennial Plant Id,3.0,,
+South,LHO,126,Res Lanscape Design Ii,5.0,,
+South,LHO,139,Landscape Management,4.0,,
+South,LHO,152,Soils,3.0,,
+South,LHO,155,Pruning,3.0,,
+South,LHO,189,Intro to Landscape Const,3.0,,
+South,LHO,197,Internship,8.0,,
+South,LHO,210,Plant Problem Diagnostic,3.0,,
+South,LHO,217,Plant Propagation Wrkshp,3.0,,LHO215
+South,LHO,236,Advanced Irrigation,5.0,,LHO135
+South,LHO,237,Adv Irrigation Diag Repr,5.0,,
+South,LHO,238,Maintenance Est/Bidding,3.0,,
+South,LHO,239,Adv. Landscape Mgt.,4.0,,
+South,LHO,242,Intro to Permaculture,3.0,,
+South,LHO,255,Edible Trees Shrubs Vine,3.0,,
+South,LHO,263,Residential Lndspdes Iii,5.0,,
+South,LHO,265,Landscape Contracts&Spec,3.0,,
+South,LHO,267,Dynascape Landscp Design,5.0,,
+South,LHO,273,Lndscp Constrc Prj Sprng,4.0,,
+South,LHO,299,Special Topics,4.0,,
+South,LST,085,Life Skills to Work Sts,4.0,,
+South,LST,085,Sts,4.0,,
+South,LST,099,Thinking for a Change,2.0,,
+South,MATH,081,Basic Math Skills,5.0,,
+South,MATH,083,Arithmetic,5.0,,
+South,MATH,089,Independent Study,2.0,,
+South,MATH,090,Mathematical Modules,2.0,,
+South,MATH,092,Des Statisticsw Algebra2,5.0,,
+South,MATH,094,Intro/Inter Algebra I,5.0,,
+South,MATH,095,Intro/Inter Algebra Ii,5.0,,
+South,MATH,098,Intermediate Algebra,5.0,,
+South,MATH,102,College Algebra,5.0,"QSR,NW",
+South,MATH,110,Appl Math for Technician,3.0,,
+South,MATH,116,Appl Math to Mgt Life Sc,5.0,"QSR,NW","MATH095,MATH098"
+South,MATH,136,Inferential Statistics,5.0,"QSR,NW",MATH092
+South,MATH,198,Mathematics Workshop,2.0,,
+South,MATH,220,Linear Algebra,5.0,QSR,
+South,MATH,224,Vector Calculus,5.0,"QSR,NW",MATH&163
+South,MATH,238,Differential Equations,5.0,"QSR,NW",
+South,MATH&,107,Math in Society,5.0,"CCN,eL,QSR,NW","MATH095,MATH098"
+South,MATH&,131,Math for Elem Ed 1,5.0,"CCN,eL,QSR,NW",MATH098
+South,MATH&,132,Math for Elem Ed 2,5.0,"CCN,eL,QSR,NW",MATH&131
+South,MATH&,141,Precalculus I,5.0,"CCN,QSR,NW",
+South,MATH&,142,Precalculus Ii,5.0,"CCN,QSR,NW",MATH&141
+South,MATH&,146,Introduction to Stats,5.0,"CCN,QSR,NW","MATH095,MATH098"
+South,MATH&,148,Business Calculus,5.0,"CCN,QSR,NW","MATH&141,MATH116"
+South,MATH&,151,Calculus I,5.0,"CCN,QSR,NW",
+South,MATH&,152,Calculus Ii,5.0,"CCN,QSR,NW",
+South,MATH&,163,Calculus 3,5.0,"CCN,QSR,NW",
+South,MET,210,Tech Strength Materials,4.0,,MET205
+South,MFGT,102,Intro to Machining,5.0,,
+South,MFGT,115,Mfg Tech Prg,6.0,,
+South,MUSC,109,World Beat:global Study,5.0,"VLPA,GS,IS",
+South,MUSC,116,Rock Music I,5.0,"VLPA,US,IS",
+South,MUSC,117,Rock Music Ii,5.0,"VLPA,US,IS",
+South,MUSC,126,Beg. Group Piano 1st Qtr,2.0,VLPA Studio,
+South,MUSC,127,Beg. Group Piano 2nd Qtr,2.0,VLPA Studio,MUSC126
+South,MUSC,128,Beg. Group Piano 3rd Qtr,2.0,VLPA Studio,MUSC127
+South,MUSC,140,College Choir,5.0,VLPA Studio,
+South,MUSC,221,Group Piano 4th Qtr,2.0,VLPA Studio,MUSC128
+South,MUSC,222,Group Piano 5th Qtr,2.0,VLPA Studio,MUSC221
+South,MUSC,223,Group Piano 6th Qtr,2.0,VLPA Studio,MUSC222
+South,MUSC,299,Practicum in Music,2.0,,
+South,MVM,100,Intro to Automotive I,3.0,,
+South,MVM,102,Intro to Automotive Ii,6.0,,
+South,NUTR&,101,Nutrition,5.0,"CCN,NW",
+South,PEC,136,Yoga,2.0,,
+South,PEC,143,Walking for Fitness,2.0,,
+South,PEC,145,Jogging,2.0,,
+South,PEC,150,Physical Fitness,3.0,,
+South,PEC,151,Physical Fitness,3.0,,
+South,PEC,299,Independent Study,2.0,,
+South,PHIL,110,Intro to Social Ethics,5.0,ICS,
+South,PHIL,118,Practical Reasoning/Deci,5.0,ICS,
+South,PHIL&,101,Intro to Philosophy,5.0,"CCN,eL,ICS",
+South,PHYS&,114,General Phys I W/Lab,5.0,"CCN,NWLab","MATH095,MATH098"
+South,PHYS&,115,General Phys Ii W/Lab,5.0,"CCN,NWLab",
+South,PHYS&,116,General Phys Iii W/Lab,5.0,"CCN,NWLab",PHYS&115
+South,PHYS&,221,Engineering Physics I,5.0,"CCN,NWLab",MATH&151
+South,PHYS&,222,Engineering Physics Ii,5.0,"CCN,NWLab",PHYS&221
+South,PHYS&,223,Engineering Physics Iii,5.0,"CCN,NWLab",MATH&152
+South,POLS&,202,American Government,5.0,"CCN,ICS,US,IS",
+South,POLS&,203,International Relations,5.0,"CCN,ICS,GS,IS",
+South,PST,101,Pastry Baking Orientatio,5.0,,
+South,PST,102,Intro to Baking Mngmt,5.0,,PST101
+South,PST,103,Begining Deco,4.0,,PST102
+South,PST,104,Decoration Theory 2,4.0,,PST102
+South,PST,105,Decoration Theory 3,4.0,,PST102
+South,PST,111,Baking 1,15.0,,PST101
+South,PST,112,Pastry 1,15.0,,"FSC100,PST111"
+South,PST,113,Baking 2,15.0,,PST112
+South,PST,197,Internship Pastry Baking,5.0,,
+South,PST,211,Pastry 2,15.0,,PST113
+South,PST,212,Pastry 3,15.0,,PST211
+South,PST,213,Pastry 4,15.0,,
+South,PST,299,Special Topics Pastry Ba,15.0,,
+South,PSYC,209,Fund of Psych Research,5.0,"HY,ICS",
+South,PSYC,225,Psychology of Addiction,5.0,,
+South,PSYC,230,Human Sexuality,5.0,"HY,ICS",
+South,PSYC,240,Psych of Human Relations,3.0,eL,
+South,PSYC,245,Social Psychology,5.0,"ICS,COM,US",
+South,PSYC&,100,General Psychology,5.0,"CCN,ICS",
+South,PSYC&,200,Lifespan Psychology,5.0,"CCN,ICS",PSYC&100
+South,PSYC&,220,Abnormal Psychology,5.0,"CCN,ICS",
+South,PTE,302,Course Development,3.0,HY,
+South,PTE,311,Technology in Learning,3.0,HY,
+South,PTE,313,Online Teaching Methods,3.0,HY,
+South,PTE,314,Professional Portfolio,3.0,HY,
+South,PTE,401,Student Support Guidance,3.0,eL,
+South,PTE,402,Assessment of Learning P,3.0,HY,
+South,PTE,420,Legal Issues Ethics Educ,3.0,HY,
+South,PTE,460,Diversity Globalism Educ,3.0,HY,
+South,PTE,468,Program Mgmt and Recruit,3.0,HY,
+South,PTE,489,Professional Devel Certi,1.0,HY,
+South,PTE,495,Capstone,3.0,HY,
+South,PTE,498,Special Topics,10.0,HY,
+South,SBST,314,Portfolio,2.0,HY,
+South,SBST,315,Work Exp. Practicum,10.0,HY,
+South,SBST,325,Sbst Internship,1.0,HY,
+South,SBST,332,Building Codes in Wa,3.0,HY,
+South,SBST,333,Bldg Controls Enrgy Effi,4.0,HY,
+South,SBST,401,Utility Rates,2.0,HY,
+South,SBST,402,Lighting,3.0,HY,
+South,SBST,422,Facility Management,4.0,HY,
+South,SBST,432,Fiscal Mgmt Facility Mgr,3.0,HY,
+South,SBST,489,Sbst Capstone Course,1.0,HY,
+South,SMG,100,Leadership & Supervision,3.0,eL,
+South,SMG,197,Internship/Co-Op Ed-Smg,5.0,,
+South,SMG,210,Project Management,3.0,eL,
+South,SMG,243,Cancelled,2.0,HY,
+South,SMG,298,Independent Study-Smg,10.0,,
+South,SMJA,103,Mach. Shop Algebra & Geo,5.0,,
+South,SMJA,122,Machinist Adv Shop Trig,5.0,,
+South,SMJA,131,Gear Trains & Threads,5.0,,
+South,SMJA,134,Machinist Codes & Proces,5.0,,
+South,SOC,105,Soc of Black Americans,5.0,"ICS,US",
+South,SOC,150,Race/Ethnic Relations,5.0,ICS,
+South,SOC,225,Psychology of Addiction,5.0,,
+South,SOC,230,Human Sexuality,5.0,"HY,ICS",
+South,SOC,245,Social Psychology,5.0,"ICS,COM,US",
+South,SOC,253,Organizational Behavior,5.0,"eL,ICS",
+South,SOC&,101,Intro to Sociology,5.0,"CCN,ICS",
+South,SPAN&,121,Spanish I,5.0,"CCN,VLPA",
+South,SPAN&,122,Spanish Ii,5.0,"CCN,VLPA",SPAN&121
+South,SPAN&,123,Spanish Iii,5.0,"CCN,VLPA",SPAN&122
+South,TDR,105,Technical Employ Prep,1.0,,
+South,TDR,121,Drafting Technology I,4.0,,TDR131
+South,TDR,123,Drafting Technology Ii,4.0,,TDR121
+South,TDR,125,Drafting Technology Iii,4.0,,TDR123
+South,TDR,126,Space Geometry,4.0,,TDR121
+South,TDR,129,Ind Blueprint Reading,3.0,,
+South,TDR,129,Industrial Blueprint Rea,3.0,,
+South,TDR,131,Introduction to Cad 2-D,4.0,,TDR121
+South,TDR,133,Intermediate Cad 2-D,4.0,,TDR131
+South,TDR,135,Autocad 3-D Modeling,4.0,,TDR13
+South,TDR,160,Surveying/Cad Civil,5.0,,"MATH111,TDR123"
+South,TDR,169,Cad - Electrical,4.0,,"MATH112,TDR131"
+South,TDR,179,Cad - Mechanical,4.0,,"TDR125,TDR135"
+South,TDR,197,Internship,5.0,,
+South,TDR,230,Basic Cad - 3d,4.0,,TDR135
+South,TDR,231,Advanced Cad 3-D,4.0,,TDR230
+South,TDR,231,Cad 3-D Parametric Sd Ii,4.0,,TDR230
+South,TDR,236,Design Project Considera,1.0,,MET102
+South,TDR,236,Design Project Managemnt,1.0,,MET102
+South,TDR,237,Design Project I,2.0,,OR2
+South,TDR,238,Design Project Ii,2.0,,TDR237
+South,TDR,241,Intermediate Catia,4.0,,"TDR228,TDR240"
+South,TDR,245,Design Machine Elements,4.0,,"TDR179,TDR272"
+South,TDR,263,Applied Mechanics 1,4.0,,MET102
+South,TDR,268,Architectural/Structural,4.0,,
+South,TDR,272,Applied Mechanics Ii,4.0,,
+South,TDR,280,Geometric Dimen.& Toler.,4.0,,
+South,TDR,298,Special Topics Dftng,5.0,,MAT098
+South,UGR,294,Independent Research,1.0,,UGR214
+South,WABO,102,Skills for Success,3.0,eL,
+South,WABO,103,PWEMIR APWXIliar,3.0,eL,
+South,WER,100,Intro to Whse Dist Indst,6.0,,
+South,WER,197,Internship,3.0,,
+South,WET,100,Emp & Edu Preparation,1.0,,
+South,WET,102,Roadmap to Success,1.0,,
+South,WET,105,Edu&career Preparation,2.0,,
+South,WET,150,Job Readiness,3.0,,
+South,WFT,100,Welding Theory,5.0,,
+South,WFT,105,Print Read/Weld Symbols,5.0,eL,
+South,WFT,105,Print Reading Welding Sy,5.0,HY,
+South,WFT,111,Materials and Testing,5.0,HY,"ENGL105,MATH110"
+South,WFT,120,INTRO.WELDING(OXY/SMAW),6.0,,"ENGL105,MATH110"
+South,WFT,120,Intro Welding Oxy Acetyl,6.0,,"ENGL105,MATH110"
+South,WFT,121,SMAW Shielded Metal Arc,6.0,,"ENGL105,MATH110"
+South,WFT,121,Shielded Metal Arc Weldi,6.0,,"ENGL105,MATH110"
+South,WFT,124,GMAW Gas Metal Arc Wldg.,6.0,,"ENGL105,MATH110"
+South,WFT,125,FCAW Flux Core Metal Arc,6.0,,"WFT100,WFT121"
+South,WFT,127,GTAW Gas Tungsten Arc,6.0,,"ENGL105,MATH110"
+South,WFT,128,Fabrication/Cac-a/Pac,6.0,,"ENGL105,MATH110"
+South,WFT,144,Shipyard Intensive,6.0,,WFT125
+South,WFT,197,Industry Internship,12.0,,
+South,WFT,220,PIPE(SMAW)Shielded Metal,6.0,,
+South,WFT,220,Pipe Shielded Metal Arc,6.0,,
+South,WFT,227,Advanced Fabrication 1,6.0,,WFT128
+South,WFT,228,Pipe Gtaw,6.0,,
+South,WFT,228,Pipe Shielded Metal/Gas,6.0,,
+South,WFT,238,Advanced Fabrication Ii,6.0,,WFT227
+South,WFT,297,Spec Topics Weld Fabrica,12.0,,
+South,WIN,101,Intro to Enology,3.0,,
+South,WIN,101,Introduction to Enology,3.0,,
+South,WIN,104,Elements of Wine Prod Ii,4.0,,
+South,WIN,105,Elements of Wine Prodiii,4.0,,
+South,WIN,108,Winery Production Ii,1.0,,
+South,WIN,109,Winery Production Iii,1.0,,
+South,WIN,110,Intro to Wine Science,3.0,,
+South,WIN,121,Intro to Viticulture,3.0,,
+South,WIN,122,Wine Chem & Microbiology,3.0,,
+South,WIN,123,Sensory Evaluation,3.0,,
+South,WIN,131,Intro to Washington Wine,3.0,,
+South,WIN,132,Wine History & Appreciat,3.0,,
+South,WIN,133,Intro Wines of the World,5.0,,
+South,WIN,141,Wine Marketing & Sales,3.0,,
+South,WIN,142,Wine Business,3.0,,
+South,WIN,151,Intro to Food Wine Pairi,3.0,,
+South,WIN,152,Advanced Food Wine Pairi,3.0,,
+South,WIN,153,Food Wine Pairing Var I,3.0,,
+South,WIN,197,Internship,5.0,,
+South,WIN,257,Food Wine Pairing Desser,3.0,,
+South,WIN,298,St- Food & Wine Cheese,3.0,,
+South,WIN,299,St:adv Wine - France,3.0,,
+South,WIN,299,St:somm Serv & Bev Mgt,3.0,,
+South,YBLD,100,Intro to Const Trades,9.0,,
+South,YBLD,100,Intro to Youth Build,9.0,,
+South,YBLD,103,Prof Skills for Trades,5.0,,
